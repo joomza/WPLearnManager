@@ -1,0 +1,5153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-02 20:13+0500\n"
+"PO-Revision-Date: 2020-05-02 20:13+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: includes/addon-updater/jslmupdater.php:249
+#: includes/addon-updater/jslmupdater.php:296
+msgid "Somthing went wrong"
+msgstr ""
+
+#: includes/addon-updater/views/html-key-input.php:4
+msgid "transaction Key"
+msgstr ""
+
+#: includes/addon-updater/views/html-key-input.php:9
+msgid ""
+"Enter your license key and hit authenticate. A valid key is required for "
+"updates."
+msgstr ""
+
+#: includes/addon-updater/views/html-update-availble.php:27
+msgid "Hide notice"
+msgstr ""
+
+#: includes/breadcrumbs.php:18
+#: includes/classes/jslearnmanageradminsidemenu.php:14
+#: includes/jslearnmanageradmin.php:14
+#: modules/premiumplugin/tmpl/admin_step3.php:25
+msgid "Control Panel"
+msgstr ""
+
+#: includes/breadcrumbs.php:25 modules/emailtemplate/model.php:55
+#: modules/emailtemplate/model.php:59 modules/emailtemplate/model.php:331
+#: modules/emailtemplate/model.php:334 modules/emailtemplate/model.php:392
+#: modules/instructor/tmpl/instructordashboard.php:58
+#: modules/instructor/tmpl/instructordashboard.php:161
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:11
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:207
+#: modules/student/tmpl/studentdashboard.php:54
+#: modules/student/tmpl/studentdashboard.php:93
+#: modules/user/tmpl/dashboard.php:9
+msgid "Dashboard"
+msgstr ""
+
+#: includes/breadcrumbs.php:28 includes/header.php:87 includes/layout.php:133
+#: modules/configuration/tmpl/admin_configurations.php:365
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:174
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:190
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:196
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:218
+#: modules/user/tmpl/register.php:13
+msgid "Register"
+msgstr ""
+
+#: includes/breadcrumbs.php:31 includes/header.php:80
+#: modules/configuration/tmpl/admin_configurations.php:289
+#: modules/configuration/tmpl/admin_configurations.php:328
+#: modules/instructor/tmpl/instructordashboard.php:74
+#: modules/instructor/tmpl/instructordashboard.php:167
+#: modules/student/tmpl/studentdashboard.php:69
+#: modules/student/tmpl/studentdashboard.php:102
+#: modules/user/tmpl/myprofile.php:9
+msgid "My Profile"
+msgstr ""
+
+#: includes/breadcrumbs.php:34
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:212
+msgid "Student Register"
+msgstr ""
+
+#: includes/breadcrumbs.php:37
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:168
+msgid "Instructor Register"
+msgstr ""
+
+#: includes/breadcrumbs.php:40 modules/instructor/tmpl/admin_instructors.php:80
+#: modules/instructor/tmpl/instructordashboard.php:89
+#: modules/instructor/tmpl/instructordetails.php:96
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:245
+#: modules/student/tmpl/admin_students.php:103
+#: modules/student/tmpl/studentdashboard.php:84
+#: modules/student/tmpl/studentprofile.php:98
+#: modules/user/tmpl/profileform.php:40
+msgid "Edit Profile"
+msgstr ""
+
+#: includes/breadcrumbs.php:48
+#: modules/fieldordering/tmpl/admin_formuserfield.php:16
+msgid "Add"
+msgstr ""
+
+#: includes/breadcrumbs.php:48 includes/messages.php:381
+#: modules/activitylog/model.php:336 modules/activitylog/model.php:517
+#: modules/course/tmpl/addcourse.php:22
+#: modules/course/tmpl/admin_coursedetail.php:202
+#: modules/course/tmpl/admin_coursequeue.php:229
+#: modules/course/tmpl/admin_courses.php:102
+#: modules/course/tmpl/admin_courses.php:273
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:32
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:25
+#: modules/instructor/tmpl/instructordetails.php:176
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:32
+#: modules/student/tmpl/admin_studentdetail.php:79
+msgid "Course"
+msgstr ""
+
+#: includes/breadcrumbs.php:48 modules/category/tmpl/admin_categories.php:106
+#: modules/category/tmpl/admin_formcategory.php:78
+#: modules/country/tmpl/admin_countries.php:81
+#: modules/country/tmpl/admin_formcountry.php:15
+#: modules/course/tmpl/admin_coursedetail.php:202
+#: modules/courselevel/tmpl/admin_courselevel.php:82
+#: modules/courselevel/tmpl/admin_formcourselevel.php:19
+#: modules/currency/tmpl/admin_currencies.php:110
+#: modules/currency/tmpl/admin_formcurrency.php:14
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:190
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:268
+#: modules/fieldordering/tmpl/admin_formuserfield.php:16
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:97
+#: modules/language/tmpl/admin_formlanguage.php:14
+#: modules/language/tmpl/admin_languages.php:76
+#: modules/slug/tmpl/admin_slug.php:106
+#: modules/user/tmpl/admin_editprofileform.php:65
+msgid "Edit"
+msgstr ""
+
+#: includes/breadcrumbs.php:52
+#: includes/classes/jslearnmanageradminsidemenu.php:27
+#: includes/classes/jslearnmanageradminsidemenu.php:29 includes/header.php:40
+#: includes/jslearnmanageradmin.php:29 includes/jslearnmanageradmin.php:30
+#: modules/activitylog/tmpl/admin_activitylogs.php:77
+#: modules/course/tmpl/admin_courses.php:100
+#: modules/course/tmpl/courselist.php:32
+#: modules/instructor/tmpl/instructordetails.php:170
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:146
+#: modules/student/tmpl/studentprofile.php:172
+#: modules/student/tmpl/studentprofile.php:175
+msgid "Courses"
+msgstr ""
+
+#: includes/breadcrumbs.php:55 modules/course/tmpl/coursedetail_leftside.php:15
+#: modules/emailtemplate/model.php:51 modules/emailtemplate/model.php:141
+#: modules/emailtemplate/model.php:259 modules/emailtemplate/model.php:301
+msgid "Course Detail"
+msgstr ""
+
+#: includes/breadcrumbs.php:58 modules/course/tmpl/admin_courses.php:251
+#: modules/course/tmpl/editcourse.php:119 modules/emailtemplate/model.php:145
+#: modules/emailtemplate/model.php:149 modules/emailtemplate/model.php:201
+#: modules/emailtemplate/model.php:205 modules/emailtemplate/model.php:209
+#: modules/emailtemplate/model.php:213
+#: modules/instructor/tmpl/admin_instructordetail.php:175
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:91
+msgid "Edit Course"
+msgstr ""
+
+#: includes/breadcrumbs.php:61 includes/header.php:61
+#: modules/course/tmpl/shortlistcourses.php:58
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:113
+#: modules/student/tmpl/studentdashboard.php:99
+#: modules/student/tmpl/studentdashboard.php:115
+msgid "Shortlist Courses"
+msgstr ""
+
+#: includes/breadcrumbs.php:68
+msgid "Search Courses"
+msgstr ""
+
+#: includes/breadcrumbs.php:75
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:102
+msgid "Lecture Detail"
+msgstr ""
+
+#: includes/breadcrumbs.php:78 includes/jslearnmanageradmin.php:126
+#: includes/jslearnmanageradmin.php:127
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:45
+#: modules/lecture/tmpl/admin_addlecture.php:582
+msgid "Add Lecture"
+msgstr ""
+
+#: includes/breadcrumbs.php:85 modules/emailtemplate/model.php:261
+#: modules/emailtemplate/model.php:303 modules/emailtemplate/model.php:367
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:146
+#: modules/student/tmpl/studentprofile.php:71
+msgid "Student Profile"
+msgstr ""
+
+#: includes/breadcrumbs.php:88 includes/breadcrumbs.php:101
+#: includes/header.php:95 includes/header.php:101
+#: modules/configuration/tmpl/admin_configurations.php:293
+#: modules/configuration/tmpl/admin_configurations.php:332
+#: modules/instructor/tmpl/instructordashboard.php:96
+#: modules/instructor/tmpl/instructordashboard.php:99
+#: modules/instructor/tmpl/instructordashboard.php:164
+#: modules/instructor/tmpl/mycourses.php:56
+#: modules/student/tmpl/mycourses.php:24
+#: modules/student/tmpl/studentdashboard.php:96
+#: modules/student/tmpl/studentdashboard.php:111
+#: modules/student/tmpl/studentdashboard.php:114
+msgid "My Courses"
+msgstr ""
+
+#: includes/breadcrumbs.php:91
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:201
+msgid "Student Dashboard"
+msgstr ""
+
+#: includes/breadcrumbs.php:98 modules/emailtemplate/model.php:305
+#: modules/emailtemplate/model.php:371
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:124
+msgid "Instructor Profile"
+msgstr ""
+
+#: includes/breadcrumbs.php:104
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:157
+msgid "Instructor Dashboard"
+msgstr ""
+
+#: includes/breadcrumbs.php:107
+msgid "All Instructors"
+msgstr ""
+
+#: includes/breadcrumbs.php:114
+msgid "Student Message"
+msgstr ""
+
+#: includes/breadcrumbs.php:117
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:256
+msgid "Instructor Message"
+msgstr ""
+
+#: includes/breadcrumbs.php:120
+msgid "Message Conversation"
+msgstr ""
+
+#: includes/breadcrumbs.php:128 includes/header.php:123
+#: modules/common/controller.php:19 modules/course/controller.php:166
+#: modules/course/controller.php:175 modules/course/controller.php:226
+#: modules/coursesearch/controller.php:32 modules/instructor/controller.php:93
+#: modules/instructor/controller.php:157 modules/instructor/controller.php:194
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:179
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:185
+#: modules/jslearnmanager/tmpl/login.php:26
+#: modules/jslearnmanager/tmpl/login.php:35 modules/lecture/controller.php:161
+#: modules/student/controller.php:79 modules/student/controller.php:125
+#: modules/student/controller.php:146 modules/user/controller.php:33
+#: modules/user/controller.php:55 modules/user/controller.php:114
+#: modules/user/controller.php:187 modules/user/controller.php:287
+msgid "Login"
+msgstr ""
+
+#: includes/breadcrumbs.php:136
+msgid "Categories List"
+msgstr ""
+
+#: includes/breadcrumbs.php:144
+msgid "New Register"
+msgstr ""
+
+#: includes/captcha.php:90 includes/captcha.php:92
+msgid "Plus"
+msgstr ""
+
+#: includes/captcha.php:90 includes/captcha.php:92 includes/captcha.php:97
+#: includes/captcha.php:99
+msgid "Equals"
+msgstr ""
+
+#: includes/captcha.php:97 includes/captcha.php:99
+msgid "Minus"
+msgstr ""
+
+#: includes/classes/customfields.php:229 includes/classes/customfields.php:247
+#: includes/classes/customfields.php:261 includes/classes/customfields.php:454
+#: includes/classes/customfields.php:473 includes/classes/customfields.php:485
+#: modules/course/tmpl/admin_formcourse.php:432
+#: modules/course/tmpl/admin_formcourse.php:542
+#: modules/coursesearch/tmpl/coursesearch.php:37
+#: modules/coursesearch/tmpl/coursesearch.php:48
+#: modules/coursesearch/tmpl/coursesearch.php:58
+#: modules/coursesearch/tmpl/coursesearch.php:63
+#: modules/fieldordering/model.php:623
+#: modules/fieldordering/tmpl/admin_formuserfield.php:44
+msgid "Select"
+msgstr ""
+
+#: includes/classes/customfields.php:291
+#: modules/lecture/tmpl/lecturedetails.php:147
+msgid "Files"
+msgstr ""
+
+#: includes/classes/customfields.php:291
+msgid "Maximum Size"
+msgstr ""
+
+#: includes/classes/customfields.php:301
+#: modules/category/tmpl/admin_categories.php:29
+#: modules/category/tmpl/admin_categories.php:107
+#: modules/country/tmpl/admin_countries.php:33
+#: modules/country/tmpl/admin_countries.php:82
+#: modules/course/tmpl/addcourse.php:46
+#: modules/course/tmpl/admin_coursequeue.php:199
+#: modules/course/tmpl/admin_courses.php:108
+#: modules/course/tmpl/admin_courses.php:245
+#: modules/courselevel/tmpl/admin_courselevel.php:30
+#: modules/courselevel/tmpl/admin_courselevel.php:83
+#: modules/currency/tmpl/admin_currencies.php:25
+#: modules/currency/tmpl/admin_currencies.php:111
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:270
+#: modules/instructor/tmpl/admin_instructordetail.php:174
+#: modules/instructor/tmpl/admin_instructorqueue.php:97
+#: modules/language/tmpl/admin_languages.php:30
+#: modules/language/tmpl/admin_languages.php:77
+#: modules/student/tmpl/admin_studentqueue.php:97
+msgid "Delete"
+msgstr ""
+
+#: includes/classes/customfields.php:530
+#: modules/jslearnmanager/tmpl/admin_translations.php:31
+#: modules/lecture/tmpl/lecturedetails.php:226
+msgid "Download"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:12
+#: modules/course/tmpl/admin_coursedetail.php:269
+#: modules/course/tmpl/admin_courses.php:205
+#: modules/course/tmpl/allcourseslist.php:86
+#: modules/course/tmpl/shortlistcourseslist.php:36
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:25
+#: modules/instructor/tmpl/mycourseslist.php:51
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:140
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:283
+#: modules/student/tmpl/studentcourselist.php:49
+msgid "Admin"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:15
+#: includes/jslearnmanageradmin.php:273 includes/jslearnmanageradmin.php:274
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:458
+#: modules/jslearnmanager/tmpl/admin_information.php:10
+msgid "Information"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:16
+#: includes/jslearnmanageradmin.php:94 includes/jslearnmanageradmin.php:95
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:212
+msgid "Activity Logs"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:17
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:204
+#: modules/jslearnmanager/tmpl/admin_translations.php:15
+msgid "Translations"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:18
+#: includes/jslearnmanageradmin.php:206 includes/jslearnmanageradmin.php:207
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:184
+msgid "System Errors"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:19
+#: includes/jslearnmanageradmin.php:241 includes/jslearnmanageradmin.php:242
+#: includes/messages.php:433 modules/slug/tmpl/admin_slug.php:20
+msgid "Slug"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:20
+#: includes/messages.php:437 modules/coursesearch/tmpl/coursesearch.php:48
+#: modules/currency/tmpl/admin_currencies.php:20
+#: modules/currency/tmpl/admin_currencies.php:132
+#: modules/currency/tmpl/admin_formcurrency.php:15
+#: modules/currency/tmpl/admin_formcurrency.php:44
+msgid "Currency"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:30
+#: modules/configuration/tmpl/admin_configurations.php:277
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:34
+msgid "Add Course"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:31
+#: includes/classes/jslearnmanageradminsidemenu.php:71
+#: includes/classes/jslearnmanageradminsidemenu.php:82
+#: modules/course/tmpl/admin_coursequeue.php:81
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:152
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:340
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:363
+msgid "Approval Queue"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:32
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:158
+msgid "Course Fields"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:33
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:176
+msgid "Lecture Fields"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:34
+#: includes/jslearnmanageradmin.php:119 includes/jslearnmanageradmin.php:120
+#: includes/messages.php:407 modules/course/tmpl/coursedetail_leftside.php:141
+#: modules/courselevel/tmpl/admin_courselevel.php:23
+#: modules/courselevel/tmpl/admin_courselevel.php:49
+#: modules/courselevel/tmpl/admin_formcourselevel.php:20
+#: modules/coursesearch/tmpl/coursesearch.php:63
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:164
+msgid "Course Level"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:35
+#: modules/course/tmpl/admin_coursedetail.php:317
+#: modules/coursesearch/tmpl/coursesearch.php:58
+#: modules/language/tmpl/admin_formlanguage.php:15
+#: modules/language/tmpl/admin_formlanguage.php:33
+#: modules/language/tmpl/admin_languages.php:24
+#: modules/language/tmpl/admin_languages.php:33
+msgid "Language"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:43
+msgid "Premium Addons"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:45
+msgid "Install Addons"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:46
+msgid "Addons list"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:54
+#: includes/jslearnmanageradmin.php:69 includes/jslearnmanageradmin.php:70
+msgid "Configurations"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:56
+#: modules/configuration/tmpl/admin_configurations.php:42
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:229
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:20
+#: modules/postinstallation/tmpl/admin_stepfour.php:20
+#: modules/postinstallation/tmpl/admin_stepone.php:23
+#: modules/postinstallation/tmpl/admin_stepthree.php:27
+#: modules/postinstallation/tmpl/admin_steptwo.php:27
+msgid "General"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:57
+#: includes/messages.php:397 modules/course/tmpl/admin_coursedetail.php:265
+#: modules/course/tmpl/admin_formcourse.php:432
+#: modules/course/tmpl/admin_formcourse.php:542
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:26
+#: modules/instructor/tmpl/admin_instructordetail.php:53
+#: modules/instructor/tmpl/admin_instructorqueue.php:62
+#: modules/instructor/tmpl/instructordetails.php:121
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:235
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:257
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:328
+#: modules/lecture/tmpl/admin_addlecture.php:615
+#: modules/postinstallation/tmpl/admin_stepfour.php:26
+#: modules/postinstallation/tmpl/admin_stepfour.php:76
+#: modules/postinstallation/tmpl/admin_stepone.php:29
+#: modules/postinstallation/tmpl/admin_stepthree.php:33
+#: modules/postinstallation/tmpl/admin_steptwo.php:33
+#: modules/student/tmpl/studentdashboard.php:129
+#: modules/student/tmpl/studentdashboard.php:159
+msgid "Instructor"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:58
+#: includes/messages.php:395
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:27
+#: modules/instructor/tmpl/admin_instructordetail.php:55
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:241
+#: modules/postinstallation/tmpl/admin_stepfour.php:32
+#: modules/postinstallation/tmpl/admin_stepone.php:35
+#: modules/postinstallation/tmpl/admin_stepthree.php:39
+#: modules/postinstallation/tmpl/admin_steptwo.php:39
+#: modules/student/tmpl/admin_studentdetail.php:54
+#: modules/student/tmpl/studentprofile.php:123
+msgid "Student"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:68
+#: includes/classes/jslearnmanageradminsidemenu.php:70
+#: includes/jslearnmanageradmin.php:36 includes/jslearnmanageradmin.php:37
+#: modules/instructor/tmpl/admin_instructors.php:22
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:334
+msgid "Instructors"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:72
+#: includes/classes/jslearnmanageradminsidemenu.php:83
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:346
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:369
+msgid "Rejected Queue"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:79
+#: includes/classes/jslearnmanageradminsidemenu.php:81
+#: includes/jslearnmanageradmin.php:43 includes/jslearnmanageradmin.php:44
+#: modules/course/tmpl/admin_coursedetail.php:243
+#: modules/course/tmpl/admin_coursedetail.php:325
+#: modules/course/tmpl/admin_coursedetail.php:344
+#: modules/course/tmpl/admin_coursedetail.php:479
+#: modules/course/tmpl/allcourseslist.php:148
+#: modules/course/tmpl/coursedetail_leftside.php:127
+#: modules/course/tmpl/coursedetail_leftside.php:169
+#: modules/course/tmpl/editcourse.php:150
+#: modules/course/tmpl/editcourse.php:180
+#: modules/course/tmpl/shortlistcourseslist.php:93
+#: modules/instructor/tmpl/admin_instructordetail.php:93
+#: modules/instructor/tmpl/instructordetails.php:194
+#: modules/instructor/tmpl/instructordetails.php:197
+#: modules/instructor/tmpl/mycourseslist.php:114
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:351
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:357
+#: modules/student/tmpl/admin_students.php:40
+#: modules/student/tmpl/studentcourselist.php:106
+msgid "Students"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:90
+#: includes/classes/jslearnmanageradminsidemenu.php:92
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:316
+#: modules/user/tmpl/admin_users.php:39
+msgid "Users"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:93
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:322
+msgid "User Fields"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:101
+#: includes/classes/jslearnmanageradminsidemenu.php:103
+#: includes/jslearnmanageradmin.php:23
+#: modules/category/tmpl/admin_categories.php:23
+msgid "Categories"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:110
+#: includes/jslearnmanageradmin.php:213 includes/jslearnmanageradmin.php:214
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:13
+msgid "Email Templates"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:112
+msgid "Options"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:113
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:17
+msgid "New Course Admin"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:114
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:18
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:119
+msgid "New Course"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:115
+#: modules/course/tmpl/addcourse.php:121
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:19
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:95
+msgid "Course Status"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:116
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:20
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:61
+#: modules/student/tmpl/studentcourselist.php:41
+msgid "Delete Course"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:117
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:21
+msgid "New Enrollment Student"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:118
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:22
+msgid "New Enrollment Instructor"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:119
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:23
+msgid "New Enrollment Admin"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:120
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:24
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:178
+msgid "Register New User"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:121
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:25
+msgid "New User Admin"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:122
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:26
+msgid "Course Alert"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:123
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:27
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:78
+msgid "Featured Course Status"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:124
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:28
+msgid "Tell A Friend"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:125
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:29
+msgid "Payout Email Admin"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:126
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:30
+msgid "Payout Email Instructor"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:127
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:31
+msgid "Message To Sender"
+msgstr ""
+
+#: includes/classes/jslearnmanageradminsidemenu.php:134
+#: includes/classes/jslearnmanageradminsidemenu.php:136
+#: includes/messages.php:425 modules/activitylog/model.php:436
+#: modules/activitylog/model.php:563
+#: modules/activitylog/tmpl/admin_activitylogs.php:92
+#: modules/country/tmpl/admin_countries.php:26
+#: modules/country/tmpl/admin_countries.php:28
+#: modules/country/tmpl/admin_countries.php:104
+#: modules/country/tmpl/admin_formcountry.php:16
+#: modules/country/tmpl/admin_formcountry.php:40
+msgid "Country"
+msgstr ""
+
+#: includes/classes/uploads.php:113 includes/classes/uploads.php:220
+msgid "Error file size too large"
+msgstr ""
+
+#: includes/dashboardapi.php:10
+msgid "Today Stats"
+msgstr ""
+
+#: includes/dashboardapi.php:27
+msgid "Last Week Stats"
+msgstr ""
+
+#: includes/dashboardapi.php:44
+msgid "Total Stats"
+msgstr ""
+
+#: includes/dashboardapi.php:61
+msgid "Newly Created Courses"
+msgstr ""
+
+#: includes/dashboardapi.php:78
+msgid "Newly Registered Instructors"
+msgstr ""
+
+#: includes/dashboardapi.php:95
+msgid "Newly Registered Students"
+msgstr ""
+
+#: includes/dashboardapi.php:112
+msgid "Latest Enrollment"
+msgstr ""
+
+#: includes/dashboardapi.php:129
+msgid "Latest Reviews"
+msgstr ""
+
+#: includes/header.php:108 includes/header.php:114 includes/messages.php:391
+#: modules/activitylog/model.php:538 modules/activitylog/model.php:559
+#: modules/configuration/tmpl/admin_configurations.php:282
+#: modules/configuration/tmpl/admin_configurations.php:321
+#: modules/emailtemplate/model.php:456 modules/emailtemplate/model.php:462
+msgid "Message"
+msgstr ""
+
+#: includes/header.php:158
+msgid "Logout"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:16
+msgid "Username / password is incorrect"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:84 includes/jslearnmanager-hooks.php:268
+#: modules/systemerror/tmpl/admin_systemerrors.php:25
+msgid "Error"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:84
+msgid "You must set jobs user role"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:137
+msgid "Username already taken"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:141
+msgid "Invalid username"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:145
+msgid "Please enter a username"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:149
+msgid "Invalid email"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:153
+msgid "Email already registered"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:157
+msgid "Please enter a password"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:161
+msgid "Passwords do not match"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:184 includes/jslearnmanager-hooks.php:190
+#: modules/course/model.php:1423
+msgid "Invalid captcha"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:237
+msgid "User Added Successfully"
+msgstr ""
+
+#: includes/jslearnmanager-hooks.php:239
+msgid "Error Updating User"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:15
+msgid "Learn Manager"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:22 includes/messages.php:403
+#: modules/activitylog/model.php:443
+#: modules/category/tmpl/admin_categories.php:24
+#: modules/category/tmpl/admin_categories.php:129
+#: modules/category/tmpl/admin_formcategory.php:79
+#: modules/category/tmpl/admin_formcategory.php:123
+#: modules/course/tmpl/admin_coursedetail.php:237
+#: modules/course/tmpl/admin_courses.php:9
+#: modules/course/tmpl/allcourseslist.php:139
+#: modules/course/tmpl/coursedetail_leftside.php:113
+#: modules/course/tmpl/courselist.php:21 modules/course/tmpl/editcourse.php:141
+#: modules/course/tmpl/shortlistcourses.php:21
+#: modules/course/tmpl/shortlistcourseslist.php:84
+#: modules/coursesearch/tmpl/coursesearch.php:37
+#: modules/instructor/tmpl/instructordashboard.php:23
+#: modules/instructor/tmpl/instructordashboard.php:107
+#: modules/instructor/tmpl/instructordashboard.php:130
+#: modules/instructor/tmpl/mycourses.php:20
+#: modules/instructor/tmpl/mycourseslist.php:105
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:192
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:258
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:384
+#: modules/lecture/tmpl/admin_addlecture.php:621
+#: modules/student/tmpl/admin_studentdetail.php:13
+#: modules/student/tmpl/studentcourselist.php:97
+msgid "Category"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:51 includes/jslearnmanageradmin.php:52
+#: includes/messages.php:423
+msgid "Awards"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:58 includes/jslearnmanageradmin.php:59
+msgid "Award Actions"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:77 includes/jslearnmanageradmin.php:78
+msgid "Reports"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:87 includes/jslearnmanageradmin.php:88
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:21
+msgid "Short Codes"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:101 includes/jslearnmanageradmin.php:102
+#: includes/messages.php:409
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:29
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:310
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:26
+msgid "User"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:109 includes/jslearnmanageradmin.php:110
+msgid "Payment Plans"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:134 includes/jslearnmanageradmin.php:135
+#: modules/activitylog/model.php:378
+#: modules/activitylog/tmpl/admin_activitylogs.php:85
+msgid "Messages"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:145 includes/jslearnmanageradmin.php:146
+msgid "Earnings"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:152 includes/jslearnmanageradmin.php:153
+msgid "Course Earnings"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:159 includes/jslearnmanageradmin.php:160
+msgid "Payment Method Config"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:172 includes/jslearnmanageradmin.php:173
+msgid "Currencies"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:181 includes/jslearnmanageradmin.php:182
+#: modules/activitylog/model.php:421 modules/activitylog/model.php:551
+#: modules/activitylog/tmpl/admin_activitylogs.php:90
+#: modules/emailtemplate/model.php:421
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:147
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:151
+msgid "Payouts"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:192 includes/jslearnmanageradmin.php:193
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:31
+#: modules/fieldordering/tmpl/admin_formuserfield.php:17
+msgid "Fields"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:199 includes/jslearnmanageradmin.php:200
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:170
+#: modules/language/tmpl/admin_languages.php:23
+msgid "Course Languages"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:220 includes/jslearnmanageradmin.php:221
+msgid "Common"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:227 includes/jslearnmanageradmin.php:228
+msgid "Email Templates Status"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:234 includes/jslearnmanageradmin.php:235
+msgid "Countries"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:248 includes/jslearnmanageradmin.php:249
+msgid "Post Installation"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:255 includes/jslearnmanageradmin.php:256
+msgid "Pro Installation"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:263 includes/jslearnmanageradmin.php:264
+msgid "Theme"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:281 includes/jslearnmanageradmin.php:282
+msgid "Premium Plugin"
+msgstr ""
+
+#: includes/jslearnmanageradmin.php:299 includes/jslearnmanageradmin.php:300
+msgid "Premium Addon"
+msgstr ""
+
+#: includes/layout.php:10
+msgid "No Data Found "
+msgstr ""
+
+#: includes/layout.php:21 includes/layout.php:44 includes/layout.php:110
+#: includes/layout.php:128 includes/layout.php:207
+msgid "Sorry"
+msgstr ""
+
+#: includes/layout.php:44
+msgid "Page has not been found"
+msgstr ""
+
+#: includes/layout.php:47
+msgid "The page link might be corrupted or"
+msgstr ""
+
+#: includes/layout.php:50
+msgid "might be removed!"
+msgstr ""
+
+#: includes/layout.php:55 includes/layout.php:240
+msgid "Back to home"
+msgstr ""
+
+#: includes/layout.php:74
+msgid "New registration has not been allowed this time"
+msgstr ""
+
+#: includes/layout.php:75
+msgid "Registeration has been disabled by admin."
+msgstr ""
+
+#: includes/layout.php:75
+msgid "Please contact to the administrator for futhur details."
+msgstr ""
+
+#: includes/layout.php:92
+msgid "No record found !"
+msgstr ""
+
+#: includes/layout.php:130
+msgid "Please login in to perform this action."
+msgstr ""
+
+#: includes/layout.php:150
+msgid ""
+"Your account has been disabled, Please contact to the system administrator."
+msgstr ""
+
+#: includes/layout.php:166
+msgid "You are not logged in"
+msgstr ""
+
+#: includes/layout.php:170
+msgid "Instructor are not allowed to perform this action"
+msgstr ""
+
+#: includes/layout.php:174
+msgid "User are not allowed to perform this action"
+msgstr ""
+
+#: includes/layout.php:178
+msgid "You have already Logged in"
+msgstr ""
+
+#: includes/layout.php:182
+msgid "You have been disabled by admin"
+msgstr ""
+
+#: includes/layout.php:186 modules/common/tmpl/newinjslearnmanager.php:33
+msgid "Please select your role"
+msgstr ""
+
+#: includes/layout.php:190
+msgid "Not allow to perform action. Account not approve from admin"
+msgstr ""
+
+#: includes/layout.php:211
+msgid "For more details,"
+msgstr ""
+
+#: includes/layout.php:211
+msgid "Please contact to the administrator."
+msgstr ""
+
+#: includes/messages.php:69
+msgid "Please first make a selection from the list"
+msgstr ""
+
+#: includes/messages.php:73
+msgid "Unknown"
+msgstr ""
+
+#: includes/messages.php:78
+msgid "Invalid Answered"
+msgstr ""
+
+#: includes/messages.php:82
+msgid "Invalid Request"
+msgstr ""
+
+#: includes/messages.php:86
+msgid "has been saved successfully"
+msgstr ""
+
+#: includes/messages.php:92
+msgid "has not been saved successfully"
+msgstr ""
+
+#: includes/messages.php:98
+msgid "has been removed from our system successfully"
+msgstr ""
+
+#: includes/messages.php:100
+msgid "has been deleted successfully"
+msgstr ""
+
+#: includes/messages.php:106
+msgid "Record does not Exist"
+msgstr ""
+
+#: includes/messages.php:110
+msgid "can not be delete"
+msgstr ""
+
+#: includes/messages.php:121
+msgid "has been published successfully"
+msgstr ""
+
+#: includes/messages.php:133
+msgid "has not been published successfully"
+msgstr ""
+
+#: includes/messages.php:142
+msgid "has been unpublished successfully"
+msgstr ""
+
+#: includes/messages.php:154
+msgid "has not been unpublished successfully"
+msgstr ""
+
+#: includes/messages.php:163
+msgid "Fields has been set as a required successfully"
+msgstr ""
+
+#: includes/messages.php:169 includes/messages.php:173
+msgid "Field has not been set as a required successfully"
+msgstr ""
+
+#: includes/messages.php:171
+msgid "Fields has not been set as a required successfully"
+msgstr ""
+
+#: includes/messages.php:177
+msgid "Fields has been set as a not required successfully"
+msgstr ""
+
+#: includes/messages.php:183 includes/messages.php:187
+msgid "Field has not been set as a not required successfully"
+msgstr ""
+
+#: includes/messages.php:185
+msgid "Fields has not been set as a not required successfully"
+msgstr ""
+
+#: includes/messages.php:191
+msgid "Field has been set ordered up successfully"
+msgstr ""
+
+#: includes/messages.php:195
+msgid "Field has not been set ordered up successfully"
+msgstr ""
+
+#: includes/messages.php:198
+msgid "Field has been set ordered down successfully"
+msgstr ""
+
+#: includes/messages.php:202
+msgid "Field has not been set ordered down successfully"
+msgstr ""
+
+#: includes/messages.php:205
+msgid "has been rejected successfully"
+msgstr ""
+
+#: includes/messages.php:211
+msgid "has not been rejected successfully"
+msgstr ""
+
+#: includes/messages.php:216
+msgid "has been approved successfully"
+msgstr ""
+
+#: includes/messages.php:222
+msgid "has not been approved successfully"
+msgstr ""
+
+#: includes/messages.php:231
+msgid "has been set as default"
+msgstr ""
+
+#: includes/messages.php:237
+msgid "Unpublished field cannot be set as a default"
+msgstr ""
+
+#: includes/messages.php:241
+msgid "has not been set as default"
+msgstr ""
+
+#: includes/messages.php:246
+msgid "status has been updated successfully"
+msgstr ""
+
+#: includes/messages.php:252
+msgid "has not been updated"
+msgstr ""
+
+#: includes/messages.php:258
+msgid "in use cannot be delete"
+msgstr ""
+
+#: includes/messages.php:265
+msgid "video url already exist."
+msgstr ""
+
+#: includes/messages.php:267
+msgid "name already exist"
+msgstr ""
+
+#: includes/messages.php:277
+msgid "already enrolled"
+msgstr ""
+
+#: includes/messages.php:283
+msgid "File type error"
+msgstr ""
+
+#: includes/messages.php:287
+msgid "File size error"
+msgstr ""
+
+#: includes/messages.php:291
+msgid "has been enabled"
+msgstr ""
+
+#: includes/messages.php:298
+msgid "has not been enabled"
+msgstr ""
+
+#: includes/messages.php:305
+msgid "has been disabled"
+msgstr ""
+
+#: includes/messages.php:312
+msgid "has not been disabled"
+msgstr ""
+
+#: includes/messages.php:319
+msgid ""
+"Credits pack has been saved and unpublished successfully. You should also "
+"disable package from woo commerce if you have already."
+msgstr ""
+
+#: includes/messages.php:323
+msgid "Enrolled in successfully"
+msgstr ""
+
+#: includes/messages.php:330
+msgid "has been sent successfully!"
+msgstr ""
+
+#: includes/messages.php:337
+msgid "has not been sent successfully!"
+msgstr ""
+
+#: includes/messages.php:344
+msgid "Empty message cannot be sent"
+msgstr ""
+
+#: includes/messages.php:351
+msgid "Waiting for approval!"
+msgstr ""
+
+#: includes/messages.php:358
+msgid "File limit has been exceeded"
+msgstr ""
+
+#: includes/messages.php:368
+msgid "approval pending due to account not approved by admin"
+msgstr ""
+
+#: includes/messages.php:383 modules/activitylog/model.php:354
+#: modules/activitylog/model.php:525
+#: modules/course/tmpl/admin_coursedetail.php:431
+#: modules/course/tmpl/coursedetail_leftside.php:284
+#: modules/course/tmpl/coursedetail_leftside.php:293
+#: modules/course/tmpl/editcourse.php:283
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:27
+#: modules/lecture/tmpl/lecturedetails.php:62
+#: modules/lecture/tmpl/lecturedetails.php:122
+msgid "Lecture"
+msgstr ""
+
+#: includes/messages.php:385
+msgid "Featured Course"
+msgstr ""
+
+#: includes/messages.php:387 modules/activitylog/model.php:348
+#: modules/activitylog/model.php:521
+msgid "Course Section"
+msgstr ""
+
+#: includes/messages.php:389 modules/activitylog/model.php:342
+#: modules/activitylog/tmpl/admin_activitylogs.php:83
+#: modules/course/tmpl/admin_courses.php:241
+msgid "Reviews"
+msgstr ""
+
+#: includes/messages.php:393
+msgid "Payout"
+msgstr ""
+
+#: includes/messages.php:399
+msgid "Record"
+msgstr ""
+
+#: includes/messages.php:401 modules/activitylog/model.php:430
+#: modules/activitylog/model.php:555
+#: modules/activitylog/tmpl/admin_activitylogs.php:91
+msgid "Payment Plan"
+msgstr ""
+
+#: includes/messages.php:405
+msgid "Course Language"
+msgstr ""
+
+#: includes/messages.php:411 modules/instructor/tmpl/instructordetails.php:67
+#: modules/user/tmpl/admin_users.php:240
+msgid "Profile"
+msgstr ""
+
+#: includes/messages.php:413
+msgid "Field Ordering"
+msgstr ""
+
+#: includes/messages.php:415 modules/activitylog/model.php:415
+#: modules/configuration/tmpl/admin_configurations.php:600
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:182
+#: modules/configuration/tmpl/admin_configurationsstudent.php:150
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:223
+msgid "Configuration"
+msgstr ""
+
+#: includes/messages.php:417
+msgid "Payment History"
+msgstr ""
+
+#: includes/messages.php:419
+msgid "Payment Method Configuration"
+msgstr ""
+
+#: includes/messages.php:421 modules/activitylog/model.php:450
+#: modules/activitylog/model.php:567
+#: modules/activitylog/tmpl/admin_activitylogs.php:93
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:135
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:198
+msgid "Email Template"
+msgstr ""
+
+#: includes/messages.php:427 modules/activitylog/model.php:408
+#: modules/configuration/tmpl/admin_configurations.php:316
+#: modules/configuration/tmpl/admin_configurations.php:355
+msgid "Shortlist Course"
+msgstr ""
+
+#: includes/messages.php:429
+msgid "User role"
+msgstr ""
+
+#: includes/messages.php:431
+msgid "Custom Field"
+msgstr ""
+
+#: includes/messages.php:435
+msgid "Prefix"
+msgstr ""
+
+#: includes/pagination.php:24 modules/instructor/model.php:688
+#: modules/lecture/tmpl/lecturedetails.php:326
+msgid "Previous"
+msgstr ""
+
+#: includes/pagination.php:25 modules/instructor/model.php:698
+#: modules/lecture/tmpl/lecturedetails.php:333
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:67
+#: modules/postinstallation/tmpl/admin_stepfour.php:104
+#: modules/postinstallation/tmpl/admin_stepone.php:140
+#: modules/postinstallation/tmpl/admin_stepthree.php:115
+#: modules/postinstallation/tmpl/admin_steptwo.php:123
+msgid "Next"
+msgstr ""
+
+#: includes/shortcodes.php:15
+msgid "Thank you"
+msgstr ""
+
+#: includes/shortcodes.php:16
+msgid "Please add your text field for the "
+msgstr ""
+
+#: learn-manager.php:208
+msgid "Please Accept Terms And Conditions So You Can Proceed"
+msgstr ""
+
+#: learn-manager.php:208
+msgid "You have not answered all required fields"
+msgstr ""
+
+#: learn-manager.php:208
+msgid "File size is greater then allowed file size"
+msgstr ""
+
+#: learn-manager.php:208
+msgid "File ext. is mismatched"
+msgstr ""
+
+#: modules/activitylog/model.php:360
+msgid "Lecture File of lecture"
+msgstr ""
+
+#: modules/activitylog/model.php:371 modules/activitylog/model.php:533
+msgid "Quiz Question"
+msgstr ""
+
+#: modules/activitylog/model.php:384
+msgid "Course Purchase"
+msgstr ""
+
+#: modules/activitylog/model.php:392
+msgid "Student Attempted a Quiz"
+msgstr ""
+
+#: modules/activitylog/model.php:395
+msgid "Enrollment in Course"
+msgstr ""
+
+#: modules/activitylog/model.php:473 modules/activitylog/model.php:589
+msgid "Administrator"
+msgstr ""
+
+#: modules/activitylog/model.php:479
+msgid "added a new"
+msgstr ""
+
+#: modules/activitylog/model.php:482
+msgid "edited a existing"
+msgstr ""
+
+#: modules/activitylog/model.php:485
+msgid "delete a record"
+msgstr ""
+
+#: modules/activitylog/model.php:488
+msgid "unknown"
+msgstr ""
+
+#: modules/activitylog/model.php:529
+msgid "Lecture File"
+msgstr ""
+
+#: modules/activitylog/model.php:542
+#: modules/activitylog/tmpl/admin_activitylogs.php:87
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:111
+msgid "Enrollment"
+msgstr ""
+
+#: modules/activitylog/model.php:546
+#: modules/activitylog/tmpl/admin_activitylogs.php:88
+msgid "Shortlist"
+msgstr ""
+
+#: modules/activitylog/model.php:594
+msgid "Deleted a"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:6
+#: modules/activitylog/tmpl/admin_activitylogs.php:126
+#: modules/instructor/model.php:653 modules/user/tmpl/admin_users.php:212
+msgid "ID"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:7
+#: modules/activitylog/tmpl/admin_activitylogs.php:127
+#: modules/instructor/model.php:655
+#: modules/postinstallation/tmpl/admin_stepfour.php:65
+#: modules/postinstallation/tmpl/admin_stepfour.php:71
+#: modules/postinstallation/tmpl/admin_stepfour.php:80
+#: modules/postinstallation/tmpl/admin_stepfour.php:86
+msgid "User Name"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:8
+#: modules/activitylog/tmpl/admin_activitylogs.php:129
+msgid "Reference For"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:9
+#: modules/activitylog/tmpl/admin_activitylogs.php:130
+#: modules/course/tmpl/admin_courses.php:10
+#: modules/course/tmpl/courselist.php:22
+#: modules/course/tmpl/shortlistcourses.php:22
+#: modules/courselevel/tmpl/admin_courselevel.php:51
+#: modules/instructor/tmpl/instructordashboard.php:24
+#: modules/instructor/tmpl/mycourses.php:21
+#: modules/student/tmpl/admin_studentdetail.php:15
+#: modules/user/tmpl/admin_users.php:24
+msgid "Created"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:64
+msgid "Activity Log"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:71
+#: modules/activitylog/tmpl/admin_activitylogs.php:119
+msgid "Settings"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:78
+msgid "Sections"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:79
+#: modules/course/tmpl/admin_coursedetail.php:294
+#: modules/course/tmpl/admin_coursequeue.php:196
+#: modules/course/tmpl/allcourseslist.php:144
+#: modules/course/tmpl/coursedetail_leftside.php:120
+#: modules/course/tmpl/editcourse.php:145
+#: modules/course/tmpl/shortlistcourseslist.php:89
+#: modules/instructor/tmpl/mycourseslist.php:110
+#: modules/student/tmpl/studentcourselist.php:102
+msgid "Lectures"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:80
+msgid "Lecture Files"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:81
+msgid "Quiz Questions"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:86
+msgid "Purchase Course"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:89
+msgid "Config"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:97
+#: modules/common/tmpl/newinjslearnmanager.php:45
+msgid "Submit"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:113
+#: modules/course/tmpl/admin_courses.php:119
+#: modules/user/tmpl/admin_users.php:63
+msgid "Sort by"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:128
+#: modules/configuration/tmpl/admin_configurations.php:411
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:28
+#: modules/slug/tmpl/admin_slug.php:91
+msgid "Description"
+msgstr ""
+
+#: modules/activitylog/tmpl/admin_activitylogs.php:151
+#: modules/category/tmpl/admin_categories.php:126
+#: modules/country/tmpl/admin_countries.php:101
+#: modules/course/tmpl/admin_coursedetail.php:333
+#: modules/course/tmpl/admin_coursequeue.php:226
+#: modules/course/tmpl/admin_courses.php:270
+#: modules/course/tmpl/coursedetail_leftside.php:361
+#: modules/course/tmpl/coursedetail_leftside.php:370
+#: modules/courselevel/tmpl/admin_courselevel.php:102
+#: modules/currency/tmpl/admin_currencies.php:129
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:296
+#: modules/instructor/tmpl/admin_instructordetail.php:188
+#: modules/instructor/tmpl/admin_instructorqueue.php:111
+#: modules/instructor/tmpl/admin_instructors.php:92
+#: modules/language/tmpl/admin_languages.php:92
+#: modules/lecture/tmpl/lecturedetails.php:190
+#: modules/slug/tmpl/admin_slug.php:129
+#: modules/student/tmpl/admin_studentdetail.php:155
+#: modules/student/tmpl/admin_studentqueue.php:111
+#: modules/student/tmpl/admin_students.php:115
+#: modules/systemerror/tmpl/admin_systemerrors.php:58
+#: modules/user/tmpl/admin_users.php:237
+msgid "No record found"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:24
+#: modules/category/tmpl/admin_categories.php:129
+#: modules/category/tmpl/admin_formcategory.php:78
+#: modules/country/tmpl/admin_countries.php:28
+#: modules/country/tmpl/admin_countries.php:104
+#: modules/country/tmpl/admin_formcountry.php:15
+#: modules/course/tmpl/admin_coursequeue.php:229
+#: modules/course/tmpl/admin_courses.php:102
+#: modules/course/tmpl/admin_courses.php:273
+#: modules/courselevel/tmpl/admin_courselevel.php:24
+#: modules/courselevel/tmpl/admin_courselevel.php:105
+#: modules/courselevel/tmpl/admin_formcourselevel.php:19
+#: modules/currency/tmpl/admin_currencies.php:20
+#: modules/currency/tmpl/admin_currencies.php:132
+#: modules/currency/tmpl/admin_formcurrency.php:14
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:34
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:299
+#: modules/language/tmpl/admin_formlanguage.php:14
+#: modules/language/tmpl/admin_languages.php:24
+#: modules/language/tmpl/admin_languages.php:95
+#: modules/user/tmpl/admin_users.php:240
+msgid "Add New"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:27
+#: modules/country/tmpl/admin_countries.php:31
+#: modules/course/tmpl/addcourse.php:10
+#: modules/course/tmpl/admin_coursequeue.php:144
+#: modules/course/tmpl/admin_courses.php:225
+#: modules/course/tmpl/admin_formcourse.php:12
+#: modules/courselevel/tmpl/admin_courselevel.php:28
+#: modules/currency/tmpl/admin_currencies.php:23
+#: modules/instructor/tmpl/admin_instructordetail.php:156
+#: modules/language/tmpl/admin_languages.php:28
+msgid "Publish"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:28
+#: modules/course/tmpl/addcourse.php:11
+#: modules/course/tmpl/admin_formcourse.php:13
+#: modules/courselevel/tmpl/admin_courselevel.php:29
+#: modules/instructor/tmpl/admin_instructordetail.php:159
+#: modules/language/tmpl/admin_languages.php:29
+msgid "Unpublish"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:29
+#: modules/category/tmpl/admin_categories.php:107
+#: modules/country/tmpl/admin_countries.php:33
+#: modules/country/tmpl/admin_countries.php:82
+#: modules/course/tmpl/admin_coursedetail.php:418
+#: modules/course/tmpl/admin_coursedetail.php:434
+#: modules/course/tmpl/admin_coursequeue.php:199
+#: modules/course/tmpl/admin_coursequeue.php:200
+#: modules/course/tmpl/admin_courses.php:108
+#: modules/course/tmpl/admin_courses.php:245
+#: modules/course/tmpl/admin_courses.php:246
+#: modules/courselevel/tmpl/admin_courselevel.php:30
+#: modules/courselevel/tmpl/admin_courselevel.php:83
+#: modules/currency/tmpl/admin_currencies.php:25
+#: modules/currency/tmpl/admin_currencies.php:111
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:270
+#: modules/instructor/tmpl/admin_instructordetail.php:174
+#: modules/instructor/tmpl/admin_instructorqueue.php:96
+#: modules/instructor/tmpl/admin_instructorqueue.php:97
+#: modules/instructor/tmpl/admin_instructors.php:81
+#: modules/instructor/tmpl/admin_instructors.php:82
+#: modules/language/tmpl/admin_languages.php:30
+#: modules/language/tmpl/admin_languages.php:77
+#: modules/student/tmpl/admin_studentdetail.php:141
+#: modules/student/tmpl/admin_studentqueue.php:96
+#: modules/student/tmpl/admin_studentqueue.php:97
+#: modules/student/tmpl/admin_students.php:104
+#: modules/student/tmpl/admin_students.php:105
+#: modules/user/tmpl/admin_users.php:43 modules/user/tmpl/admin_users.php:216
+#: modules/user/tmpl/admin_users.php:217
+msgid "Are you sure to delete"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:32
+#: modules/country/tmpl/admin_countries.php:36
+#: modules/country/tmpl/admin_countries.php:52
+#: modules/country/tmpl/admin_formcountry.php:26
+#: modules/course/tmpl/admin_formcourse.php:274
+#: modules/courselevel/tmpl/admin_courselevel.php:33
+#: modules/instructor/model.php:654
+#: modules/instructor/tmpl/admin_instructorqueue.php:28
+#: modules/instructor/tmpl/admin_instructors.php:26
+#: modules/student/tmpl/admin_studentqueue.php:30
+#: modules/student/tmpl/admin_students.php:44
+#: modules/user/tmpl/admin_users.php:23 modules/user/tmpl/admin_users.php:93
+msgid "Name"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:33
+#: modules/course/tmpl/admin_coursequeue.php:105
+#: modules/course/tmpl/admin_courses.php:158
+msgid "Select Status"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:36
+#: modules/country/tmpl/admin_countries.php:40
+#: modules/course/tmpl/admin_coursequeue.php:108
+#: modules/course/tmpl/admin_courses.php:161
+#: modules/course/tmpl/admin_formcourse.php:281
+#: modules/course/tmpl/courselist.php:71
+#: modules/course/tmpl/shortlistcourses.php:91
+#: modules/courselevel/tmpl/admin_courselevel.php:37
+#: modules/currency/tmpl/admin_currencies.php:38
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:90
+#: modules/instructor/tmpl/admin_instructorqueue.php:32
+#: modules/instructor/tmpl/admin_instructors.php:30
+#: modules/instructor/tmpl/mycourses.php:88
+#: modules/language/tmpl/admin_languages.php:36
+#: modules/slug/tmpl/admin_slug.php:76
+#: modules/student/tmpl/admin_studentqueue.php:34
+#: modules/student/tmpl/admin_students.php:48
+#: modules/student/tmpl/mycourses.php:49 modules/user/tmpl/admin_users.php:97
+msgid "Search"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:37
+#: modules/country/tmpl/admin_countries.php:41
+#: modules/course/tmpl/admin_coursequeue.php:109
+#: modules/course/tmpl/admin_courses.php:162
+#: modules/course/tmpl/admin_formcourse.php:284
+#: modules/course/tmpl/courselist.php:70
+#: modules/course/tmpl/shortlistcourses.php:90
+#: modules/courselevel/tmpl/admin_courselevel.php:38
+#: modules/currency/tmpl/admin_currencies.php:39
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:91
+#: modules/instructor/tmpl/admin_instructorqueue.php:33
+#: modules/instructor/tmpl/admin_instructors.php:31
+#: modules/instructor/tmpl/mycourses.php:87
+#: modules/language/tmpl/admin_languages.php:37
+#: modules/slug/tmpl/admin_slug.php:77
+#: modules/student/tmpl/admin_studentqueue.php:35
+#: modules/student/tmpl/admin_students.php:49
+#: modules/student/tmpl/mycourses.php:48 modules/user/tmpl/admin_users.php:98
+msgid "Reset"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:48
+msgid "Category Title"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:49
+#: modules/category/tmpl/admin_formcategory.php:113
+#: modules/currency/tmpl/admin_currencies.php:52
+#: modules/currency/tmpl/admin_formcurrency.php:35
+msgid "Default"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:50
+#: modules/category/tmpl/admin_categories.php:84
+#: modules/category/tmpl/admin_formcategory.php:109
+#: modules/common/model.php:212 modules/common/model.php:306
+#: modules/country/tmpl/admin_countries.php:53
+#: modules/country/tmpl/admin_countries.php:72
+#: modules/country/tmpl/admin_formcountry.php:30
+#: modules/courselevel/tmpl/admin_courselevel.php:72
+#: modules/courselevel/tmpl/admin_formcourselevel.php:29
+#: modules/currency/tmpl/admin_currencies.php:51
+#: modules/currency/tmpl/admin_currencies.php:79
+#: modules/currency/tmpl/admin_formcurrency.php:31
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:129
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:132
+#: modules/instructor/tmpl/instructordetails.php:174
+#: modules/language/tmpl/admin_formlanguage.php:24
+#: modules/language/tmpl/admin_languages.php:48
+#: modules/language/tmpl/admin_languages.php:67
+msgid "Published"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:51
+#: modules/currency/tmpl/admin_currencies.php:53
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:107
+msgid "Ordering"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:52
+#: modules/country/tmpl/admin_countries.php:54
+#: modules/courselevel/tmpl/admin_courselevel.php:52
+#: modules/currency/tmpl/admin_currencies.php:54
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:108
+#: modules/language/tmpl/admin_languages.php:49
+#: modules/slug/tmpl/admin_slug.php:92
+msgid "Action"
+msgstr ""
+
+#: modules/category/tmpl/admin_categories.php:88
+#: modules/country/tmpl/admin_countries.php:76
+#: modules/courselevel/tmpl/admin_courselevel.php:76
+#: modules/currency/tmpl/admin_currencies.php:83
+#: modules/language/tmpl/admin_languages.php:71
+msgid "Not Published"
+msgstr ""
+
+#: modules/category/tmpl/admin_formcategory.php:84
+#: modules/configuration/tmpl/admin_configurations.php:406
+#: modules/course/tmpl/admin_coursequeue.php:98
+#: modules/course/tmpl/admin_courses.php:11
+#: modules/course/tmpl/admin_courses.php:151
+#: modules/course/tmpl/courselist.php:23
+#: modules/course/tmpl/shortlistcourses.php:23
+#: modules/currency/tmpl/admin_currencies.php:35
+#: modules/currency/tmpl/admin_currencies.php:49
+#: modules/currency/tmpl/admin_formcurrency.php:19
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:24
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:84
+#: modules/instructor/tmpl/instructordashboard.php:26
+#: modules/instructor/tmpl/mycourses.php:23
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:26
+#: modules/language/tmpl/admin_formlanguage.php:20
+#: modules/language/tmpl/admin_languages.php:47
+#: modules/postinstallation/tmpl/admin_stepone.php:58
+msgid "Title"
+msgstr ""
+
+#: modules/category/tmpl/admin_formcategory.php:88
+msgid "Category Image"
+msgstr ""
+
+#: modules/category/tmpl/admin_formcategory.php:110
+#: modules/category/tmpl/admin_formcategory.php:114
+#: modules/common/model.php:205
+#: modules/configuration/tmpl/admin_configurations.php:9
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:8
+#: modules/configuration/tmpl/admin_configurationsstudent.php:8
+#: modules/country/tmpl/admin_formcountry.php:31
+#: modules/courselevel/tmpl/admin_formcourselevel.php:30
+#: modules/currency/tmpl/admin_formcurrency.php:32
+#: modules/currency/tmpl/admin_formcurrency.php:36
+#: modules/fieldordering/model.php:429
+#: modules/fieldordering/tmpl/admin_formuserfield.php:22
+#: modules/language/tmpl/admin_formlanguage.php:25
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:2
+#: modules/postinstallation/tmpl/admin_stepfour.php:2
+#: modules/postinstallation/tmpl/admin_stepone.php:5
+#: modules/postinstallation/tmpl/admin_stepthree.php:3
+#: modules/postinstallation/tmpl/admin_steptwo.php:8
+msgid "Yes"
+msgstr ""
+
+#: modules/category/tmpl/admin_formcategory.php:110
+#: modules/category/tmpl/admin_formcategory.php:114
+#: modules/common/model.php:206
+#: modules/configuration/tmpl/admin_configurations.php:9
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:8
+#: modules/configuration/tmpl/admin_configurationsstudent.php:8
+#: modules/country/tmpl/admin_formcountry.php:31
+#: modules/courselevel/tmpl/admin_formcourselevel.php:30
+#: modules/currency/tmpl/admin_formcurrency.php:32
+#: modules/currency/tmpl/admin_formcurrency.php:36
+#: modules/fieldordering/model.php:430
+#: modules/fieldordering/tmpl/admin_formuserfield.php:23
+#: modules/language/tmpl/admin_formlanguage.php:25
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:3
+#: modules/postinstallation/tmpl/admin_stepfour.php:3
+#: modules/postinstallation/tmpl/admin_stepone.php:6
+#: modules/postinstallation/tmpl/admin_stepthree.php:4
+#: modules/postinstallation/tmpl/admin_steptwo.php:9
+msgid "No"
+msgstr ""
+
+#: modules/category/tmpl/admin_formcategory.php:122
+#: modules/country/tmpl/admin_formcountry.php:39
+#: modules/course/tmpl/addcourse.php:242 modules/course/tmpl/addcourse.php:244
+#: modules/course/tmpl/admin_coursedetail.php:466
+#: modules/course/tmpl/editcourse.php:319
+#: modules/courselevel/tmpl/admin_formcourselevel.php:38
+#: modules/currency/tmpl/admin_formcurrency.php:43
+#: modules/fieldordering/tmpl/admin_formuserfield.php:170
+#: modules/language/tmpl/admin_formlanguage.php:32
+#: modules/lecture/tmpl/addlecture.php:199
+#: modules/lecture/tmpl/admin_addlecture.php:789
+#: modules/user/tmpl/admin_editprofileform.php:225
+#: modules/user/tmpl/instructorregister.php:223
+#: modules/user/tmpl/profileform.php:196
+#: modules/user/tmpl/studentregister.php:191
+msgid "Cancel"
+msgstr ""
+
+#: modules/category/tmpl/admin_formcategory.php:123
+#: modules/configuration/tmpl/admin_configurations.php:600
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:182
+#: modules/configuration/tmpl/admin_configurationsstudent.php:150
+#: modules/country/tmpl/admin_formcountry.php:40
+#: modules/course/tmpl/admin_coursedetail.php:464
+#: modules/course/tmpl/editcourse.php:317
+#: modules/courselevel/tmpl/admin_formcourselevel.php:39
+#: modules/currency/tmpl/admin_formcurrency.php:44
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:135
+#: modules/fieldordering/model.php:500
+#: modules/fieldordering/tmpl/admin_formuserfield.php:171
+#: modules/language/tmpl/admin_formlanguage.php:33 modules/slug/model.php:127
+#: modules/slug/tmpl/admin_slug.php:64 modules/slug/tmpl/admin_slug.php:70
+#: modules/slug/tmpl/admin_slug.php:116
+msgid "Save"
+msgstr ""
+
+#: modules/common/model.php:213 modules/common/model.php:307
+#: modules/country/tmpl/admin_countries.php:32
+#: modules/currency/tmpl/admin_currencies.php:24
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:129
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:132
+msgid "Unpublished"
+msgstr ""
+
+#: modules/common/model.php:219
+msgid "One Time Appear"
+msgstr ""
+
+#: modules/common/model.php:220
+msgid "More than one time"
+msgstr ""
+
+#: modules/common/model.php:226 modules/common/model.php:233
+#: modules/course/tmpl/admin_coursequeue.php:178
+#: modules/emailtemplate/model.php:50 modules/emailtemplate/model.php:140
+#: modules/emailtemplate/model.php:144
+#: modules/instructor/tmpl/admin_instructors.php:60
+#: modules/student/tmpl/admin_students.php:83
+msgid "Approved"
+msgstr ""
+
+#: modules/common/model.php:227 modules/common/model.php:234
+#: modules/course/tmpl/admin_coursequeue.php:184
+#: modules/emailtemplate/model.php:58 modules/emailtemplate/model.php:148
+#: modules/instructor/tmpl/admin_instructorqueue.php:71
+#: modules/student/tmpl/admin_studentqueue.php:73
+msgid "Rejected"
+msgstr ""
+
+#: modules/common/model.php:240
+msgid "Show all"
+msgstr ""
+
+#: modules/common/model.php:242
+msgid "Show featured"
+msgstr ""
+
+#: modules/common/model.php:249 modules/course/tmpl/admin_coursedetail.php:282
+#: modules/course/tmpl/admin_coursequeue.php:156
+#: modules/course/tmpl/coursedetail_leftside.php:58
+#: modules/jslearnmanager/model.php:376 modules/jslearnmanager/model.php:413
+msgid "Free"
+msgstr ""
+
+#: modules/common/model.php:250 modules/jslearnmanager/model.php:374
+#: modules/jslearnmanager/model.php:411
+msgid "Paid"
+msgstr ""
+
+#: modules/common/model.php:256
+msgid "Beginner"
+msgstr ""
+
+#: modules/common/model.php:257
+msgid "Intermediate"
+msgstr ""
+
+#: modules/common/model.php:258
+msgid "Expert"
+msgstr ""
+
+#: modules/common/model.php:359
+msgid "Contact us email received"
+msgstr ""
+
+#: modules/common/tmpl/newinjslearnmanager.php:32
+msgid "Are you new in"
+msgstr ""
+
+#: modules/common/tmpl/newinjslearnmanager.php:35
+msgid "Select Role"
+msgstr ""
+
+#: modules/configuration/model.php:81
+msgid "Data directory can not empty."
+msgstr ""
+
+#: modules/configuration/model.php:85
+msgid "Data directory is not proper."
+msgstr ""
+
+#: modules/configuration/model.php:93
+msgid "Data directory is not writable."
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:8
+msgid "dd-mm-yyyy"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:8
+msgid "mm/dd/yyyy"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:8
+msgid "yyyy-mm-dd"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:10
+#: modules/configuration/tmpl/admin_configurationsstudent.php:9
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:63
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:75
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:86
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:108
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:119
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:130
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:141
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:152
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:163
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:262
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:273
+msgid "Show"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:10
+#: modules/configuration/tmpl/admin_configurationsstudent.php:9
+msgid "Hide"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:12
+msgid "Google Captcha"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:12
+msgid "Learn Manager Captcha"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:13
+msgid "Any"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:13
+msgid "Addition"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:13
+msgid "Subtraction"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:15
+msgid "Top left"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:15
+msgid "Top right"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:15
+msgid "Middle left"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:15
+msgid "Middle right"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:15
+msgid "Bottom left"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:15
+msgid "Bottom right"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:16
+msgid "Show Maximum rule value award"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:16
+msgid "Show all awards awarded"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:47
+#: modules/configuration/tmpl/admin_configurations.php:66
+#: modules/postinstallation/tmpl/admin_stepone.php:53
+msgid "Site Settings"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:48
+msgid "Visitor Settings"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:49
+msgid "List Course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:50
+msgid "Instructor Top menu"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:51
+msgid "Student Top menu"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:52
+msgid "Visitor Top menu"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:53
+msgid "Email setting"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:55
+msgid "RSS setting"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:58
+msgid "Social Login"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:61
+msgid "Social Sharing"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:70
+msgid "Site Title"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:74
+msgid "Offline"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:80
+#: modules/postinstallation/tmpl/admin_stepone.php:85
+msgid "Data directory"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:82
+#: modules/postinstallation/tmpl/admin_stepone.php:90
+msgid "System will upload all user files in this folder"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:85
+#: modules/postinstallation/tmpl/admin_stepone.php:67
+msgid "System slug"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:90
+#: modules/postinstallation/tmpl/admin_stepone.php:122
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:92
+#: modules/postinstallation/tmpl/admin_stepone.php:127
+msgid "Show navigation in breadcrumbs"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:96
+msgid "Course SEO"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:98
+msgid "Course seo options are title, category, access type, course level"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:98
+msgid "title"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:98
+msgid "category"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:98
+msgid "courselevel"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:102
+msgid "Auto assign default payment plan to new course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:104
+msgid "Auto assign default payment plan to new user"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:110
+msgid "Default pagination size"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:112
+msgid "Maximum number of records show per Page"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:115
+msgid "Mark Course New"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:116
+msgid "Days"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:117
+msgid "How many days system show New tag"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:121
+msgid "Category List in Right Side bar"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:123
+msgid ""
+"Show number of category list on right side bar of course detail and edit "
+"course page"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:127
+msgid "Allowed upload file size"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:129
+#: modules/configuration/tmpl/admin_configurations.php:134
+msgid "File size in kb"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:132
+msgid "Allowed course image size"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:137
+msgid "Allowed image extensions type"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:139
+msgid "Allowed file extensions types for upload files"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:142
+msgid "Upload file types for lecture"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:144
+msgid "For example"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:147
+msgid "User register redirect"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:149
+msgid "New user register redirect page"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:152
+msgid "Default Currency Symbol"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:154
+msgid "Default Curreny Symbol for Paid course, Payouts, Earning"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:157
+msgid "Date format"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:162
+msgid "Profile Image Size"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:164
+msgid "Profile Image size in kb"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:167
+#: modules/postinstallation/tmpl/admin_stepone.php:75
+msgid "Default page"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:169
+msgid ""
+"Select Learn Manager default page, on action system will redirect on "
+"selected page. If not select default page, email links and support icon "
+"might not work."
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:173
+msgid "Select to show awards to user"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:175
+msgid "Show Awards to user dashboard"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:182
+msgid "Visitors Settings"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:186
+msgid "Show captcha on registration form"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:188
+msgid "Show captcha on Learn Manager registration form"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:191
+msgid "default captcha"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:193
+msgid "Select captcha for plugin"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:196
+msgid "Learn Manager captcha calculation type"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:198
+msgid "Select calculation type (addition, subtraction)"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:201
+msgid "Learn Manager captcha answer always positive"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:203
+msgid "Subtraction answer should be positive"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:208
+msgid "Number of operands for Learn Manager captcha"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:210
+msgid "Number of operands for captcha"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:213
+msgid "Google recaptcha private key"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:215
+msgid "Enter the google recaptcha private key from"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:218
+msgid "Google recaptcha public key"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:220
+msgid "Enter the google recaptcha public key from"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:223
+msgid "Visitor can shortlist course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:225
+msgid "Can Visitor shortlist the course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:232
+msgid "Cousre List"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:242
+msgid "Show featured course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:244
+msgid "Show featured course in course lising page"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:249
+msgid "Number of featured course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:251
+msgid "Number of featured course show per scroll"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:255
+msgid "Cousre Detail"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:258
+msgid "Show Student List"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:260
+msgid "Show student list in course detail"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:265
+msgid "Instructor Top Menu"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:269
+#: modules/configuration/tmpl/admin_configurations.php:308
+#: modules/configuration/tmpl/admin_configurations.php:347
+#: modules/course/tmpl/admin_coursedetail.php:342
+#: modules/course/tmpl/editcourse.php:177
+msgid "Home"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:273
+#: modules/configuration/tmpl/admin_configurations.php:312
+#: modules/configuration/tmpl/admin_configurations.php:351
+msgid "Course List"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:297
+#: modules/configuration/tmpl/admin_configurations.php:336
+#: modules/configuration/tmpl/admin_configurations.php:361
+msgid "Login/Logout"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:304
+msgid "Student Top Menu"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:343
+msgid "Visitor Top Menu"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:372
+#: modules/instructor/tmpl/admin_instructordetail.php:62
+#: modules/instructor/tmpl/admin_instructorqueue.php:79
+#: modules/instructor/tmpl/admin_instructors.php:64
+#: modules/student/tmpl/admin_studentdetail.php:60
+#: modules/student/tmpl/admin_studentqueue.php:80
+#: modules/student/tmpl/admin_students.php:87
+#: modules/user/tmpl/admin_users.php:94 modules/user/tmpl/admin_users.php:185
+#: modules/user/tmpl/instructorregister.php:102
+#: modules/user/tmpl/studentregister.php:71
+msgid "Email"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:376
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:130
+msgid "Sender email address"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:378
+msgid "Default sender email"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:381
+msgid "Email sender name"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:383
+msgid "Default Email Sender Name"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:388
+#: modules/postinstallation/tmpl/admin_stepone.php:95
+msgid "Admin email address"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:390
+msgid "Admin Email"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:397
+msgid "RSS"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:401
+msgid "Course RSS"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:403
+msgid "Webmaster"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:408
+msgid "Must provide title for feed"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:413
+msgid "Must provide description for feed"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:416
+msgid "Copyright"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:418
+msgid "Leave blank to hide"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:423
+msgid "Editor"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:425
+msgid "Leave blank to hide editor used for feed content issue"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:428
+msgid "Time to live"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:430
+msgid "Time to live for feed"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:433
+msgid "Web master"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:435
+msgid "Leave blank to hide webmaster used for technical issue"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:439
+msgid "Course block"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:442
+msgid "Show with categories"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:443
+msgid "Use rss categories with our course categories"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:447
+msgid "Show course image"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:449
+msgid "Show course image in feeds"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:455
+#: modules/instructor/tmpl/instructordetails.php:108
+#: modules/student/tmpl/studentprofile.php:110
+#: modules/user/tmpl/admin_editprofileform.php:186
+#: modules/user/tmpl/admin_users.php:163
+#: modules/user/tmpl/instructorregister.php:190
+#: modules/user/tmpl/studentregister.php:159
+msgid "Facebook"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:459
+msgid "Login with facebook"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:461
+msgid "Facebook user can login in learn manager"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:464
+msgid "Valid OAuth redirect URI"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:470
+msgid ""
+"This url is to be inserted in \"Valid OAuth redirect URI\" field on facebook "
+"app interface for facebook app to work."
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:472
+msgid "This URL is dependent on \"Default page\" on site settings."
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:479
+#: modules/configuration/tmpl/admin_configurations.php:499
+#: modules/configuration/tmpl/admin_configurations.php:521
+#: modules/configuration/tmpl/admin_configurations.php:543
+msgid "API Key"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:481
+msgid "API key is required for facebook app"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:484
+#: modules/configuration/tmpl/admin_configurations.php:506
+#: modules/configuration/tmpl/admin_configurations.php:528
+#: modules/configuration/tmpl/admin_configurations.php:550
+msgid "Secret"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:490
+#: modules/instructor/tmpl/instructordetails.php:112
+#: modules/student/tmpl/studentprofile.php:114
+#: modules/user/tmpl/admin_editprofileform.php:194
+#: modules/user/tmpl/instructorregister.php:192
+#: modules/user/tmpl/studentregister.php:161
+msgid "Linkedin"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:494
+msgid "Login with linkedin"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:496
+msgid "Linkedin user can login in learn manager"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:501
+msgid "API key is required for linkedin app"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:512
+msgid "Xing"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:516
+msgid "Login with Xing"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:518
+msgid "Xing user can login in learn manager"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:523
+msgid "API key is required for xing app"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:534
+msgid "Google"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:538
+msgid "Login with Google"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:540
+msgid "Google user can login in learn manager"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:545
+msgid "API key is required for google app"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:560
+msgid "Social Media"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:563
+msgid "Tumbler share"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:566
+msgid "Facebook share"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:569
+msgid "Google share"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:572
+msgid "Blogger share"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:575
+msgid "Instagram share"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:578
+msgid "Linkedin share"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:581
+msgid "Digg share"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:584
+msgid "Twitter share"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurations.php:587
+msgid "Pintrest share"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:9
+#: modules/configuration/tmpl/admin_configurationsstudent.php:11
+msgid "Only section that have value"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:9
+#: modules/configuration/tmpl/admin_configurationsstudent.php:11
+msgid "All sections"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:10
+#: modules/configuration/tmpl/admin_configurationsstudent.php:10
+msgid "Select left"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:10
+#: modules/configuration/tmpl/admin_configurationsstudent.php:10
+msgid "All Fields"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:10
+#: modules/configuration/tmpl/admin_configurationsstudent.php:10
+msgid "Only filled fields"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:35
+#: modules/postinstallation/tmpl/admin_steptwo.php:57
+msgid "Instructor Configuration"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:40
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:48
+#: modules/configuration/tmpl/admin_configurationsstudent.php:40
+#: modules/configuration/tmpl/admin_configurationsstudent.php:46
+msgid "General Settings"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:41
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:125
+#: modules/configuration/tmpl/admin_configurationsstudent.php:41
+#: modules/configuration/tmpl/admin_configurationsstudent.php:87
+msgid "Course Settings"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:52
+#: modules/postinstallation/tmpl/admin_steptwo.php:62
+msgid "Enable Instructor Area"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:54
+msgid "Hide and show instructor area from layout "
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:57
+msgid "Instructor autoapprove"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:59
+msgid "Approve/Reject instructor to effect instructor functionality"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:62
+msgid "Allow user to register as instructor"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:65
+msgid "Enable/Disable user to register as a instructor"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:69
+msgid "effects on user registration"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:74
+msgid "Enable featured course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:76
+msgid "Enable/Disable user to make featured course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:81
+#: modules/postinstallation/tmpl/admin_steptwo.php:114
+msgid "Can send message to student"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:83
+msgid "Enable/Disable to send message to student"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:89
+#: modules/postinstallation/tmpl/admin_steptwo.php:105
+msgid "Course auto approve"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:92
+msgid "Enable/Disable course auto approve"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:96
+msgid "Newly created course auto approve in case of yes selected"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:100
+msgid "Instructor can view student profile"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:102
+msgid "Enable/Disable Instructor to view student area"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:105
+msgid "Instructor register redirect"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:107
+msgid "Enable/Disable instructor to redirect after new register"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:111
+msgid "Featured course auto approve"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:114
+msgid "Enable/Disable featured course auto approve"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:117
+msgid "Featured course "
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:129
+#: modules/postinstallation/tmpl/admin_steptwo.php:97
+msgid "Instructor can add course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:131
+msgid "Enable/Disable instructor to create new course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:138
+msgid "Can add Paid course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:140
+msgid "Enable/Disable to add paid course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:145
+#: modules/configuration/tmpl/admin_configurationsstudent.php:112
+msgid "Lecture Settings"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:149
+msgid "Number of files allowed"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsinstructor.php:151
+msgid ""
+"Maximum number of files allowed in a lecture and in case of empty no file "
+"will be uploaded"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:35
+#: modules/postinstallation/tmpl/admin_stepthree.php:57
+msgid "Student Configuration"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:50
+#: modules/postinstallation/tmpl/admin_stepthree.php:71
+msgid "Enable Student Area"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:52
+msgid "If no then front end student area is not accessable"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:55
+msgid "Student autoapprove"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:57
+msgid "Approve/Reject student to effect instructor functionality"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:60
+#: modules/postinstallation/tmpl/admin_stepthree.php:88
+msgid "Allow user to register as student"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:67
+msgid "Student register redirect"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:69
+msgid "New student register redirect page"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:72
+msgid "Student can view instructor profile"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:78
+#: modules/postinstallation/tmpl/admin_stepthree.php:98
+msgid "Can send message to instructor"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:91
+msgid "Can Enroll in course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:97
+msgid "Can give review on course"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:105
+msgid "Can view course detail"
+msgstr ""
+
+#: modules/configuration/tmpl/admin_configurationsstudent.php:116
+msgid "Retake Quiz"
+msgstr ""
+
+#: modules/country/tmpl/admin_countries.php:37
+#: modules/courselevel/tmpl/admin_courselevel.php:34
+#: modules/currency/tmpl/admin_currencies.php:36
+#: modules/language/tmpl/admin_languages.php:34
+#: modules/user/tmpl/admin_users.php:95
+msgid "Select status"
+msgstr ""
+
+#: modules/country/tmpl/admin_formcountry.php:22
+msgid "Country Code"
+msgstr ""
+
+#: modules/course/controller.php:93 modules/course/controller.php:180
+#: modules/course/controller.php:217 modules/instructor/controller.php:70
+#: modules/instructor/controller.php:81 modules/instructor/controller.php:136
+#: modules/instructor/controller.php:177 modules/student/controller.php:104
+#: modules/student/controller.php:137 modules/user/controller.php:38
+#: modules/user/controller.php:60 modules/user/controller.php:104
+#: modules/user/controller.php:224 modules/user/controller.php:270
+msgid "Select role"
+msgstr ""
+
+#: modules/course/model.php:2582 modules/course/model.php:2588
+msgid "Un Shortlist"
+msgstr ""
+
+#: modules/course/model.php:2826 modules/course/model.php:2832
+msgid "Make Shortlist"
+msgstr ""
+
+#: modules/course/model.php:3436
+msgid "Course has been Shortlisted"
+msgstr ""
+
+#: modules/course/model.php:3438
+msgid "Failed while performing this action"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.inc.php:39
+msgid "Course Price Must be greater or equal than 1"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.inc.php:105
+#: modules/course/tmpl/admin_formcourse.php:226
+msgid "Please Select Valid Discount Type"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.inc.php:109
+#: modules/course/tmpl/admin_formcourse.php:230
+msgid "Discount price must be less or equal than Course price"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.inc.php:113
+msgid "Discount percentage must be less or equal to 100 and greater than 0"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.inc.php:117
+#: modules/course/tmpl/admin_formcourse.php:237
+msgid "Discount price must be greater or equal than 0"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:14
+#: modules/course/tmpl/admin_formcourse.php:38
+msgid "Percentage"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:15
+#: modules/course/tmpl/admin_formcourse.php:39
+msgid "Fixed"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:39
+#: modules/user/tmpl/instructorregister.php:85
+#: modules/user/tmpl/profileform.php:58
+#: modules/user/tmpl/studentregister.php:54
+msgid "Upload Image"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:43
+msgid "Upload Course Image"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:49
+msgid "Max image size is"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:49 modules/lecture/tmpl/addlecture.php:100
+msgid " Kb."
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:49
+msgid " Allowed Type:("
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:66
+msgid "Enter Course title"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:66
+msgid "off"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:185
+msgid "Enter Course Duration Like 5-weeks, 10-mins etc"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:236
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:218
+msgid "Update"
+msgstr ""
+
+#: modules/course/tmpl/addcourse.php:238
+#: modules/course/tmpl/admin_formcourse.php:536
+msgid "Create Course"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:199
+msgid "Course Details"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:291
+msgid "Course Features"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:299
+msgid "Duration"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:309
+msgid "Skill Level"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:343
+#: modules/course/tmpl/admin_coursedetail.php:394
+#: modules/course/tmpl/coursedetail_leftside.php:167
+#: modules/course/tmpl/coursedetail_leftside.php:237
+#: modules/course/tmpl/editcourse.php:178
+#: modules/course/tmpl/editcourse.php:246
+msgid "Curriculum"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:352
+#: modules/course/tmpl/coursedetail_leftside.php:181
+#: modules/course/tmpl/editcourse.php:192
+msgid "Course Description"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:361
+#: modules/course/tmpl/coursedetail_leftside.php:192
+#: modules/course/tmpl/editcourse.php:203
+msgid "Learning Outcomes"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:373
+#: modules/course/tmpl/coursedetail_leftside.php:207
+msgid "Additional Information"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:397
+msgid "New Section"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:416
+#: modules/course/tmpl/editcourse.php:269
+msgid "New Lecture"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:439
+#: modules/course/tmpl/admin_coursedetail.php:445
+#: modules/course/tmpl/coursedetail_leftside.php:298
+#: modules/course/tmpl/coursedetail_leftside.php:306
+#: modules/course/tmpl/editcourse.php:292
+#: modules/course/tmpl/editcourse.php:300
+msgid "No Data Found"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:457
+msgid "Add Section Name"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:461
+#: modules/course/tmpl/editcourse.php:314
+msgid "Section Name"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:462
+msgid "Enter Section Name"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:465
+#: modules/course/tmpl/editcourse.php:318
+msgid "Save & Close"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:506
+#: modules/course/tmpl/coursedetail_leftside.php:347
+#: modules/course/tmpl/editcourse.php:361
+msgid "Show More"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursedetail.php:511
+msgid "No Student Enroll."
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:99
+#: modules/course/tmpl/admin_courses.php:152
+#: modules/course/tmpl/courselist.php:62
+#: modules/course/tmpl/shortlistcourses.php:82
+#: modules/instructor/tmpl/mycourses.php:79
+#: modules/student/tmpl/mycourses.php:40
+msgid "Select category"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:100
+#: modules/course/tmpl/admin_courses.php:153
+msgid "Select access type"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:103
+#: modules/course/tmpl/admin_courses.php:156
+msgid "Select Skill Level"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:104
+msgid " Language"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:147
+msgid "Not publish"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:161
+#: modules/course/tmpl/admin_courses.php:201
+msgid "Instructor:"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:164
+#: modules/course/tmpl/admin_courses.php:192
+msgid "Created:"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:167
+#: modules/course/tmpl/admin_courses.php:213
+msgid "Category:"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:181
+#: modules/course/tmpl/admin_formcourse.php:17
+#: modules/emailtemplate/model.php:54
+#: modules/user/tmpl/admin_editprofileform.php:17
+msgid "Pending"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:195
+#: modules/course/tmpl/admin_courses.php:239
+#: modules/course/tmpl/coursedetail_leftside.php:317
+#: modules/course/tmpl/editcourse.php:333
+msgid "Enrolled Students"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:200
+#: modules/course/tmpl/admin_courses.php:246
+#: modules/instructor/tmpl/admin_instructorqueue.php:96
+#: modules/instructor/tmpl/admin_instructorqueue.php:97
+#: modules/student/tmpl/admin_studentqueue.php:96
+#: modules/student/tmpl/admin_studentqueue.php:97
+#: modules/user/tmpl/admin_users.php:216
+msgid "This will delete every thing about this record"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:200
+#: modules/course/tmpl/admin_courses.php:246
+msgid "Force Delete"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:203
+msgid "Are you sure to reject this course"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:203
+#: modules/course/tmpl/admin_formcourse.php:18
+#: modules/instructor/tmpl/admin_instructorqueue.php:99
+#: modules/student/tmpl/admin_studentqueue.php:99
+#: modules/user/tmpl/admin_editprofileform.php:19
+msgid "Reject"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:206
+msgid "Are you sure to approve this course"
+msgstr ""
+
+#: modules/course/tmpl/admin_coursequeue.php:206
+#: modules/course/tmpl/admin_formcourse.php:16
+#: modules/instructor/tmpl/admin_instructorqueue.php:101
+#: modules/student/tmpl/admin_studentqueue.php:101
+#: modules/user/tmpl/admin_editprofileform.php:18
+msgid "Approve"
+msgstr ""
+
+#: modules/course/tmpl/admin_courses.php:13
+#: modules/course/tmpl/courselist.php:25
+#: modules/course/tmpl/shortlistcourses.php:25
+#: modules/instructor/tmpl/instructordashboard.php:25
+#: modules/instructor/tmpl/mycourses.php:22
+#: modules/student/tmpl/admin_studentdetail.php:14
+msgid "Price"
+msgstr ""
+
+#: modules/course/tmpl/admin_courses.php:107
+#: modules/user/tmpl/admin_users.php:48
+msgid "Select All"
+msgstr ""
+
+#: modules/course/tmpl/admin_courses.php:157
+msgid "Select Course Language"
+msgstr ""
+
+#: modules/course/tmpl/admin_courses.php:216
+msgid "Lectures:"
+msgstr ""
+
+#: modules/course/tmpl/admin_courses.php:228
+msgid "Un-publish"
+msgstr ""
+
+#: modules/course/tmpl/admin_courses.php:249
+msgid "Course Earning"
+msgstr ""
+
+#: modules/course/tmpl/admin_formcourse.php:234
+msgid "Discount percentage must be less or equal to 100 or greater than 0"
+msgstr ""
+
+#: modules/course/tmpl/admin_formcourse.php:271
+#: modules/jslearnmanager/tmpl/login.php:39
+#: modules/user/tmpl/instructorregister.php:98
+#: modules/user/tmpl/studentregister.php:67
+msgid "Username"
+msgstr ""
+
+#: modules/course/tmpl/admin_formcourse.php:277
+#: modules/fieldordering/tmpl/admin_formuserfield.php:30
+#: modules/fieldordering/tmpl/admin_formuserfield.php:182
+#: modules/instructor/model.php:656
+#: modules/instructor/tmpl/admin_instructorqueue.php:29
+#: modules/instructor/tmpl/admin_instructors.php:27
+#: modules/student/tmpl/admin_studentqueue.php:31
+#: modules/student/tmpl/admin_students.php:45
+msgid "Email Address"
+msgstr ""
+
+#: modules/course/tmpl/admin_formcourse.php:296
+msgid "Add New Course"
+msgstr ""
+
+#: modules/course/tmpl/admin_formcourse.php:306
+msgid "Course Logo"
+msgstr ""
+
+#: modules/course/tmpl/admin_formcourse.php:511
+msgid "Course Publish Status"
+msgstr ""
+
+#: modules/course/tmpl/admin_formcourse.php:520
+#: modules/course/tmpl/admin_formcourse.php:529
+msgid "Course Approval Status"
+msgstr ""
+
+#: modules/course/tmpl/admin_formcourse.php:538
+msgid "Update Course"
+msgstr ""
+
+#: modules/course/tmpl/allcourseslist.php:36
+#: modules/course/tmpl/shortlistcourseslist.php:19
+#: modules/instructor/tmpl/mycourseslist.php:33
+#: modules/student/tmpl/studentcourselist.php:33
+msgid "Course Image"
+msgstr ""
+
+#: modules/course/tmpl/allcourseslist.php:83
+#: modules/course/tmpl/coursedetail_leftside.php:1
+#: modules/course/tmpl/coursedetail_leftside.php:2
+#: modules/course/tmpl/coursedetail_leftside.php:161
+#: modules/course/tmpl/coursedetail_leftside.php:331
+#: modules/course/tmpl/editcourse.php:68 modules/course/tmpl/editcourse.php:173
+#: modules/course/tmpl/editcourse.php:347
+#: modules/course/tmpl/shortlistcourseslist.php:33
+#: modules/instructor/tmpl/mycourseslist.php:48
+#: modules/student/tmpl/studentcourselist.php:46
+msgid "image"
+msgstr ""
+
+#: modules/course/tmpl/allcourseslist.php:94
+msgid "New"
+msgstr ""
+
+#: modules/course/tmpl/allcourseslist.php:122
+#: modules/course/tmpl/shortlistcourseslist.php:67
+#: modules/instructor/tmpl/mycourseslist.php:88
+#: modules/student/tmpl/studentcourselist.php:80
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: modules/course/tmpl/allcourseslist.php:174
+#: modules/course/tmpl/shortlistcourseslist.php:119
+#: modules/instructor/tmpl/mycourseslist.php:140
+#: modules/student/tmpl/studentcourselist.php:132
+msgid "No course found"
+msgstr ""
+
+#: modules/course/tmpl/coursedetail_leftside.php:51
+msgid "Enrollment disabled by Admin"
+msgstr ""
+
+#: modules/course/tmpl/coursedetail_leftside.php:67
+#: modules/course/tmpl/coursedetail_leftside.php:79
+msgid "Enroll in course"
+msgstr ""
+
+#: modules/course/tmpl/coursedetail_leftside.php:67
+msgid "Enroll in"
+msgstr ""
+
+#: modules/course/tmpl/coursedetail_leftside.php:79
+msgid "Enroll in Course"
+msgstr ""
+
+#: modules/course/tmpl/coursedetail_leftside.php:89
+#: modules/instructor/tmpl/instructordashboard.php:100
+#: modules/student/tmpl/admin_studentdetail.php:130
+msgid "Enrolled"
+msgstr ""
+
+#: modules/course/tmpl/coursedetail_leftside.php:107
+#: modules/course/tmpl/editcourse.php:136
+msgid "Instructor Image"
+msgstr ""
+
+#: modules/course/tmpl/coursedetail_leftside.php:134
+#: modules/course/tmpl/editcourse.php:154
+msgid "Course duration"
+msgstr ""
+
+#: modules/course/tmpl/coursedetail_leftside.php:147
+#: modules/course/tmpl/editcourse.php:162
+msgid "Course language"
+msgstr ""
+
+#: modules/course/tmpl/coursedetail_leftside.php:166
+#: modules/course/tmpl/coursedetail_leftside.php:167
+#: modules/course/tmpl/coursedetail_leftside.php:169
+#: modules/course/tmpl/coursedetail_leftside.php:290
+#: modules/course/tmpl/coursedetail_leftside.php:293
+#: modules/course/tmpl/coursedetail_leftside.php:347
+#: modules/course/tmpl/editcourse.php:177
+#: modules/course/tmpl/editcourse.php:178
+#: modules/course/tmpl/editcourse.php:180
+#: modules/course/tmpl/editcourse.php:263
+#: modules/course/tmpl/editcourse.php:283
+#: modules/course/tmpl/editcourse.php:361
+msgid "link"
+msgstr ""
+
+#: modules/course/tmpl/coursedetail_leftside.php:166
+#: modules/lecture/tmpl/lecturedetails.php:146
+msgid "Overview"
+msgstr ""
+
+#: modules/course/tmpl/coursedetail_leftside.php:351
+#: modules/course/tmpl/editcourse.php:365
+msgid "No Student Enroll....."
+msgstr ""
+
+#: modules/course/tmpl/courselist.php:45
+#: modules/course/tmpl/shortlistcourses.php:63
+msgid "sortby"
+msgstr ""
+
+#: modules/course/tmpl/courselist.php:57
+#: modules/course/tmpl/shortlistcourses.php:77
+#: modules/coursesearch/tmpl/coursesearch.php:77
+#: modules/instructor/tmpl/mycourses.php:74
+#: modules/student/tmpl/mycourses.php:35
+msgid "Search Course"
+msgstr ""
+
+#: modules/course/tmpl/editcourse.php:73 modules/lecture/tmpl/addlecture.php:39
+msgid "Edit course"
+msgstr ""
+
+#: modules/course/tmpl/editcourse.php:158
+msgid "Course level"
+msgstr ""
+
+#: modules/course/tmpl/editcourse.php:218
+#: modules/instructor/tmpl/instructordetails.php:151
+msgid "Addition Features"
+msgstr ""
+
+#: modules/course/tmpl/editcourse.php:249
+msgid "Add New Section"
+msgstr ""
+
+#: modules/course/tmpl/editcourse.php:269
+msgid "Add New Lecture"
+msgstr ""
+
+#: modules/course/tmpl/editcourse.php:270
+msgid "Edit Section"
+msgstr ""
+
+#: modules/course/tmpl/editcourse.php:271
+msgid "Delete Section"
+msgstr ""
+
+#: modules/course/tmpl/editcourse.php:286
+msgid "Edit Lecture"
+msgstr ""
+
+#: modules/course/tmpl/editcourse.php:287
+msgid "Delete Lecture"
+msgstr ""
+
+#: modules/course/tmpl/editcourse.php:310
+msgid "Add Section"
+msgstr ""
+
+#: modules/course/tmpl/editcourse.php:315
+msgid "Enter Section Title"
+msgstr ""
+
+#: modules/course/tmpl/shortlistcourseslist.php:28
+msgid "Remove Shortlist"
+msgstr ""
+
+#: modules/course/tmpl/shortlistcourseslist.php:48
+#: modules/emailtemplate/model.php:92
+#: modules/instructor/tmpl/mycourseslist.php:69
+#: modules/student/tmpl/studentcourselist.php:61
+msgid "View Course"
+msgstr ""
+
+#: modules/courselevel/tmpl/admin_courselevel.php:24
+#: modules/courselevel/tmpl/admin_courselevel.php:105
+#: modules/courselevel/tmpl/admin_formcourselevel.php:39
+#: modules/language/tmpl/admin_languages.php:95
+msgid "Level"
+msgstr ""
+
+#: modules/courselevel/tmpl/admin_courselevel.php:50
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:259
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:385
+msgid "Status"
+msgstr ""
+
+#: modules/courselevel/tmpl/admin_formcourselevel.php:25
+msgid "Level Title"
+msgstr ""
+
+#: modules/coursesearch/tmpl/coursesearch.php:14
+msgid "Course Search"
+msgstr ""
+
+#: modules/currency/tmpl/admin_currencies.php:17
+msgid " Currency "
+msgstr ""
+
+#: modules/currency/tmpl/admin_formcurrency.php:23
+msgid "Symbol"
+msgstr ""
+
+#: modules/currency/tmpl/admin_formcurrency.php:27
+msgid "Code"
+msgstr ""
+
+#: modules/emailtemplate/model.php:200
+msgid "rejected for featured"
+msgstr ""
+
+#: modules/emailtemplate/model.php:204
+msgid "approved for featured"
+msgstr ""
+
+#: modules/emailtemplate/model.php:208
+msgid "removed for featured"
+msgstr ""
+
+#: modules/emailtemplate/model.php:212
+msgid "pending for featured"
+msgstr ""
+
+#: modules/emailtemplate/model.php:260
+msgid "Instructor Detail"
+msgstr ""
+
+#: modules/emailtemplate/model.php:390
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:120
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:126
+msgid "Attachment"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:35
+msgid "Subject"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:39
+msgid "Body"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:43
+msgid "Parameters"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:46
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:54
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:61
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:68
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:74
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:78
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:116
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:122
+msgid "Instructor name"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:47
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:55
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:62
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:69
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:71
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:86
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:100
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:105
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:112
+msgid "Course title"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:48
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:56
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:108
+msgid "Course status"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:49
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:57
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:101
+msgid "Course category"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:50
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:58
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:64
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:103
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:107
+msgid "Access type"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:51
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:65
+msgid "Publish/Unpublish status"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:52
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:59
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:63
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:73
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:81
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:87
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:102
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:106
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:113
+msgid "Course link"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:66
+msgid "Course approve or reject"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:66
+msgid "Featured"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:72
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:79
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:85
+msgid "Student name"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:75
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:82
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:89
+msgid "Course access type"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:76
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:83
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:90
+msgid "Course price"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:80
+msgid "Student profile "
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:88
+msgid "Student profile"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:92
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:96
+msgid "User name(Instructor/Student)"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:93
+msgid "My dashboard link"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:94
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:98
+msgid "User Role(Instructor/Student)"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:97
+msgid "User dashboard link"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:110
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:129
+msgid "Sender name"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:111
+msgid "Your website name"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:114
+msgid "Sender message"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:117
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:123
+msgid "Amount"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:118
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:124
+msgid "Payout date"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:119
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:125
+msgid "Link"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:128
+msgid "Receiver name"
+msgstr ""
+
+#: modules/emailtemplate/tmpl/admin_emailtemplate.php:131
+msgid "Message from sender"
+msgstr ""
+
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:19
+msgid "Email Templates Options"
+msgstr ""
+
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:36
+msgid "Add new course"
+msgstr ""
+
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:42
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:51
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:68
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:85
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:102
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:121
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:130
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:139
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:156
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:165
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:183
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:192
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:201
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:217
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:226
+msgid "Send email"
+msgstr ""
+
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:45
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:54
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:71
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:88
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:105
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:124
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:133
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:142
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:159
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:168
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:186
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:195
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:204
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:220
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:229
+msgid "Do not send email"
+msgstr ""
+
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:115
+msgid "New Enrollment"
+msgstr ""
+
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:174
+msgid "Miscellaneous"
+msgstr ""
+
+#: modules/emailtemplatestatus/tmpl/admin_emailtemplatestatus.php:210
+msgid "Message to sender"
+msgstr ""
+
+#: modules/fieldordering/model.php:388
+msgid "Select parent field"
+msgstr ""
+
+#: modules/fieldordering/model.php:440
+msgid "Edit Field"
+msgstr ""
+
+#: modules/fieldordering/model.php:446
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:103
+#: modules/fieldordering/tmpl/admin_formuserfield.php:48
+msgid "Field Title"
+msgstr ""
+
+#: modules/fieldordering/model.php:451
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:104
+#: modules/fieldordering/tmpl/admin_formuserfield.php:56
+msgid "User Published"
+msgstr ""
+
+#: modules/fieldordering/model.php:452
+#: modules/fieldordering/tmpl/admin_formuserfield.php:57
+msgid "Select published"
+msgstr ""
+
+#: modules/fieldordering/model.php:455
+msgid "Visitor published"
+msgstr ""
+
+#: modules/fieldordering/model.php:456
+#: modules/fieldordering/tmpl/admin_formuserfield.php:61
+msgid "Select visitor published"
+msgstr ""
+
+#: modules/fieldordering/model.php:462
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:41
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:87
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:106
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:136
+#: modules/fieldordering/tmpl/admin_formuserfield.php:72
+msgid "Required"
+msgstr ""
+
+#: modules/fieldordering/model.php:463
+#: modules/fieldordering/tmpl/admin_formuserfield.php:73
+msgid "Select required"
+msgstr ""
+
+#: modules/fieldordering/model.php:468
+msgid "Terms And Conditions Page"
+msgstr ""
+
+#: modules/fieldordering/model.php:477
+#: modules/fieldordering/tmpl/admin_formuserfield.php:64
+msgid "User Search"
+msgstr ""
+
+#: modules/fieldordering/model.php:478
+#: modules/fieldordering/tmpl/admin_formuserfield.php:65
+msgid "Select user search"
+msgstr ""
+
+#: modules/fieldordering/model.php:481
+#: modules/fieldordering/tmpl/admin_formuserfield.php:68
+msgid "Visitor Search"
+msgstr ""
+
+#: modules/fieldordering/model.php:482
+#: modules/fieldordering/tmpl/admin_formuserfield.php:69
+msgid "Select visitor search"
+msgstr ""
+
+#: modules/fieldordering/model.php:491
+msgid "Show On Listing"
+msgstr ""
+
+#: modules/fieldordering/model.php:492
+#: modules/fieldordering/tmpl/admin_formuserfield.php:53
+msgid "Select show on listing"
+msgstr ""
+
+#: modules/fieldordering/model.php:502
+msgid "Advanced"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:34
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:299
+#: modules/fieldordering/tmpl/admin_formuserfield.php:171
+msgid "User Field"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:37
+msgid "User Publish"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:38
+msgid "User Unpublished"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:39
+msgid "Visitor Publish"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:40
+msgid "Visitor Unpublished"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:42
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:136
+msgid "Not Required"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:85
+msgid "Select user status"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:86
+msgid "Select visitor status"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:105
+#: modules/fieldordering/tmpl/admin_formuserfield.php:60
+msgid "Visitor Published"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:156
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:173
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:197
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:214
+msgid "Cannot unpublished"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_fieldsordering.php:231
+msgid "Cannot required"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:26
+#: modules/fieldordering/tmpl/admin_formuserfield.php:178
+msgid "Text Field"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:27
+#: modules/fieldordering/tmpl/admin_formuserfield.php:179
+msgid "Check Box"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:28
+#: modules/fieldordering/tmpl/admin_formuserfield.php:180
+#: modules/systemerror/tmpl/admin_systemerrors.php:27
+msgid "Date"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:29
+#: modules/fieldordering/tmpl/admin_formuserfield.php:181
+msgid "Drop Down"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:31
+#: modules/fieldordering/tmpl/admin_formuserfield.php:183
+msgid "Text Area"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:32
+#: modules/fieldordering/tmpl/admin_formuserfield.php:184
+msgid "Radio Button"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:33
+#: modules/fieldordering/tmpl/admin_formuserfield.php:185
+msgid "Dependent Field"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:34
+#: modules/fieldordering/tmpl/admin_formuserfield.php:186
+msgid "Upload File"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:35
+#: modules/fieldordering/tmpl/admin_formuserfield.php:187
+msgid "Multi Select"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:40
+msgid "Field Type"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:41
+msgid "Select type"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:44
+msgid "Parent Field"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:52
+msgid "Show on listing"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:76
+msgid "Field Size"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:80
+#: modules/fieldordering/tmpl/admin_formuserfield.php:131
+msgid "Use The Table Below To Add New Values"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:119
+msgid "Max Length"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:123
+msgid "Columns"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:127
+msgid "Rows"
+msgstr ""
+
+#: modules/fieldordering/tmpl/admin_formuserfield.php:155
+msgid "Add Value"
+msgstr ""
+
+#: modules/instructor/tmpl/admin_instructordetail.php:24
+msgid "Instructor Details"
+msgstr ""
+
+#: modules/instructor/tmpl/admin_instructordetail.php:66
+#: modules/instructor/tmpl/admin_instructorqueue.php:83
+#: modules/instructor/tmpl/admin_instructors.php:67
+#: modules/student/tmpl/admin_studentdetail.php:63
+#: modules/student/tmpl/admin_studentqueue.php:83
+#: modules/student/tmpl/admin_students.php:90
+msgid "Gender"
+msgstr ""
+
+#: modules/instructor/tmpl/admin_instructordetail.php:69
+#: modules/instructor/tmpl/admin_instructorqueue.php:87
+#: modules/instructor/tmpl/admin_instructors.php:71
+#: modules/student/tmpl/admin_studentdetail.php:66
+#: modules/student/tmpl/admin_studentqueue.php:87
+#: modules/student/tmpl/admin_students.php:94
+#: modules/user/tmpl/admin_users.php:189
+msgid "Location"
+msgstr ""
+
+#: modules/instructor/tmpl/admin_instructordetail.php:75
+#: modules/instructor/tmpl/admin_instructorqueue.php:93
+#: modules/instructor/tmpl/admin_instructors.php:77
+msgid "Instructor ID"
+msgstr ""
+
+#: modules/instructor/tmpl/admin_instructordetail.php:83
+#: modules/jslearnmanager/model.php:429
+msgid "Total Courses"
+msgstr ""
+
+#: modules/instructor/tmpl/admin_instructordetail.php:88
+#: modules/jslearnmanager/model.php:434
+msgid "Publish Courses"
+msgstr ""
+
+#: modules/instructor/tmpl/admin_instructorqueue.php:69
+#: modules/student/tmpl/admin_studentqueue.php:71
+msgid "Pending for approval"
+msgstr ""
+
+#: modules/instructor/tmpl/admin_instructorqueue.php:96
+#: modules/instructor/tmpl/admin_instructors.php:81
+#: modules/student/tmpl/admin_studentqueue.php:96
+#: modules/student/tmpl/admin_students.php:104
+#: modules/user/tmpl/admin_users.php:216
+msgid "Enforce Delete"
+msgstr ""
+
+#: modules/instructor/tmpl/admin_instructors.php:81
+#: modules/student/tmpl/admin_students.php:104
+msgid "This will delete every thing about this record with user information"
+msgstr ""
+
+#: modules/instructor/tmpl/admin_instructors.php:82
+#: modules/student/tmpl/admin_students.php:105
+msgid "This will delete every thing about this user"
+msgstr ""
+
+#: modules/instructor/tmpl/admin_instructors.php:82
+#: modules/student/tmpl/admin_students.php:105
+#: modules/user/tmpl/admin_users.php:44
+msgid "Delete user data"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:53
+#: modules/student/tmpl/studentdashboard.php:49
+msgid "Loading Image"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:62
+#: modules/instructor/tmpl/instructordetails.php:101
+#: modules/student/tmpl/studentdashboard.php:58
+#: modules/student/tmpl/studentprofile.php:103
+msgid "Account not approved"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:86
+#: modules/student/tmpl/studentdashboard.php:81
+msgid "Welcome"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:99
+#: modules/student/tmpl/studentdashboard.php:114
+msgid "My courses"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:100
+msgid "Recently enrolled"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:106
+#: modules/student/tmpl/studentdashboard.php:128
+#: modules/student/tmpl/studentdashboard.php:158
+msgid "Course Name"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:120
+#: modules/student/tmpl/studentdashboard.php:148
+msgid "You have no course"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:128
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:382
+msgid "Student Name"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:129
+msgid "Enrolled Course"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:144
+msgid "You have no student"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:157
+#: modules/student/tmpl/studentdashboard.php:89
+msgid "Useful Links"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordashboard.php:178
+#: modules/student/tmpl/studentdashboard.php:189
+msgid "Stats"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordetails.php:88
+#: modules/student/tmpl/studentprofile.php:91
+msgid "Profile image"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordetails.php:110
+#: modules/student/tmpl/studentprofile.php:112
+#: modules/user/tmpl/admin_editprofileform.php:190
+#: modules/user/tmpl/admin_users.php:170
+#: modules/user/tmpl/instructorregister.php:191
+#: modules/user/tmpl/studentregister.php:160
+msgid "Twitter"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordetails.php:184
+msgid "Unpublish Course"
+msgstr ""
+
+#: modules/instructor/tmpl/instructordetails.php:187
+msgid "UnPublished"
+msgstr ""
+
+#: modules/instructor/tmpl/mycourses.php:60
+msgid "Create New Course"
+msgstr ""
+
+#: modules/instructor/tmpl/mycourseslist.php:48
+msgid "instructor image"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:95
+msgid "Dates"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:95
+msgid "New courses"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:95
+msgid "Featured courses"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:95
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:126
+msgid "New instructors"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:95
+msgid "New students"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:335
+msgid "New Courses"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:345
+msgid "Purchase Courses"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:354
+msgid "Enrolled Courses"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:440
+msgid "Total Instructors"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:445
+msgid "Total Students"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:511
+msgid "Dir is not writable"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:529 modules/jslearnmanager/model.php:644
+msgid "Unable to connect to server"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:574 modules/jslearnmanager/model.php:612
+msgid "Language is not installed"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:576 modules/jslearnmanager/model.php:615
+msgid "Language directory is not writable"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:581
+msgid "Required language is not installed but similar language[s] like"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:581
+msgid "is found in your system"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:585
+msgid "Language code"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:601
+msgid "Empty values"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:624
+msgid "File is not writable"
+msgstr ""
+
+#: modules/jslearnmanager/model.php:642
+msgid "File Downloaded Successfully"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:28
+msgid "Your Version"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:73
+msgid "Update To Latest"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:83
+msgid "Total courses"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:90
+msgid "Publish courses"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:97
+msgid "Total instructors"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:104
+msgid "Total students"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:111
+msgid "Statistics"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:134
+msgid "New Students"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:250
+msgid "Newest Courses"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:256
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:383
+msgid "Course Title"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:376
+msgid "Newest Enrolled Students"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:428
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:452
+msgid "Support"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:434
+msgid "Short Code"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:440
+msgid "Documentation"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:446
+msgid "Forms"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:470
+msgid "We'd love to hear from "
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:471
+msgid "You"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:472
+msgid "Please write appreciated review at"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_controlpanel.php:474
+msgid "Word Press Extension Directory"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_information.php:14
+msgid "Component Details"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_information.php:18
+msgid "Created By"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_information.php:22
+msgid "Company"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_information.php:26
+msgid "Plugins"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_information.php:30
+msgid "Version"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:27
+msgid "Short code"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:40
+msgid "To add or"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:40
+msgid "create new course"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:51
+msgid "To"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:51
+msgid "add course lecture"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:57
+msgid "Course by category"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:63
+msgid "courses by category"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:69
+msgid "Course detail"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:75
+msgid "course detail"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:80
+msgid "Course list"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:86
+msgid "courses"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:97
+msgid "course"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:108
+msgid "lecture detail"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:119
+msgid "shortlist courses"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:130
+msgid "instructor profile"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:135
+msgid "Student Message List"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:141
+msgid "student message list"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:152
+msgid "student profile"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:163
+msgid "instructor dashboard"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:174
+msgid " page for instructor"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:185
+msgid "for user"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:196
+msgid "layout"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:207
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:218
+msgid "Show Student"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:223
+msgid "User Dashboard"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:229
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:240
+msgid "Show user"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:229
+msgid "dashboard"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:234
+msgid "User Profile"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:240
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:251
+msgid "profile"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:251
+msgid "Show edit"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:262
+msgid "instructor message"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:267
+msgid "Instructor List"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_shortcodes.php:273
+msgid "Instructors List"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_translations.php:26
+msgid "Get Learn Manager Translations"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_translations.php:27
+msgid "Get Translations"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_translations.php:29
+msgid "Select Translation"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_translations.php:33
+msgid ""
+"When WordPress language change to fr_FR, Learn Manager language will auto "
+"change to fr_FR"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_translations.php:45
+msgid "Contribute In Translation"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/admin_translations.php:46
+msgid "Manual Download"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/login.php:42
+#: modules/postinstallation/tmpl/admin_stepfour.php:67
+#: modules/postinstallation/tmpl/admin_stepfour.php:73
+#: modules/postinstallation/tmpl/admin_stepfour.php:82
+#: modules/postinstallation/tmpl/admin_stepfour.php:88
+#: modules/user/tmpl/instructorregister.php:114
+#: modules/user/tmpl/studentregister.php:83
+msgid "Password"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/login.php:49
+msgid "Keep me login"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/login.php:52
+msgid "Forget Your Password?"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/thankyou.php:6
+msgid "Thank You Image"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/thankyou.php:11
+msgid "Thank You so much for visiting Js Learn Manager"
+msgstr ""
+
+#: modules/jslearnmanager/tmpl/thankyou.php:16
+msgid "We will love to see you again"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.inc.php:265
+msgid "Enter Choice"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:10
+#: modules/lecture/tmpl/lecturedetails.php:51
+msgid "Loading image"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:26
+#: modules/lecture/tmpl/lecturedetails.php:69
+msgid "Back to course"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:53
+#: modules/lecture/tmpl/admin_addlecture.php:640
+msgid "Lecture Title"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:66
+#: modules/lecture/tmpl/admin_addlecture.php:654
+#: modules/lecture/tmpl/lecturedetails.php:159
+msgid "Lecture Description"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:91
+msgid "Add images & files"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:97
+msgid "Upload Files"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:100
+#: modules/lecture/tmpl/admin_addlecture.php:686
+msgid "Max file size"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:100
+#: modules/lecture/tmpl/admin_addlecture.php:686
+msgid " Allowed Type: "
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:101
+#: modules/lecture/tmpl/admin_addlecture.php:687
+msgid "Files Allowed :"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:104
+#: modules/lecture/tmpl/admin_addlecture.php:691
+msgid "Recently added files"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:108
+#: modules/lecture/tmpl/admin_addlecture.php:695
+msgid "Existing Images & Files"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:118
+msgid "Delete File"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:124
+#: modules/lecture/tmpl/lecturedetails.php:217
+msgid "View File"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:144
+msgid "Add media and Videos"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:146
+msgid "Video Title"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:147
+msgid "Video Url"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:148
+#: modules/lecture/tmpl/admin_addlecture.php:739
+msgid "Allowed Types:"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:148
+#: modules/lecture/tmpl/admin_addlecture.php:739
+msgid "Youtube,Vimeo"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:150
+#: modules/lecture/tmpl/admin_addlecture.php:740
+msgid "Add to List"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:155
+#: modules/lecture/tmpl/admin_addlecture.php:745
+msgid "Recently added videos"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:158
+#: modules/lecture/tmpl/admin_addlecture.php:751
+msgid "Existing media and Videos"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:172
+msgid "Video link"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:177
+msgid "Delete Video"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:178
+msgid "View Video"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:197
+#: modules/lecture/tmpl/admin_addlecture.php:790
+msgid "Save Lecture"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:198
+msgid "Save & New"
+msgstr ""
+
+#: modules/lecture/tmpl/addlecture.php:199
+msgid "Cancel Lecture"
+msgstr ""
+
+#: modules/lecture/tmpl/admin_addlecture.php:627
+#: modules/lecture/tmpl/lecturedetails.php:98
+msgid "Section"
+msgstr ""
+
+#: modules/lecture/tmpl/admin_addlecture.php:683
+msgid "Add Files/images"
+msgstr ""
+
+#: modules/lecture/tmpl/admin_addlecture.php:734
+msgid "Add Lecture Video"
+msgstr ""
+
+#: modules/lecture/tmpl/lecturedetails.php:146
+msgid "Text"
+msgstr ""
+
+#: modules/lecture/tmpl/lecturedetails.php:148
+msgid "Videos"
+msgstr ""
+
+#: modules/lecture/tmpl/lecturedetails.php:173
+#: modules/student/tmpl/studentprofile.php:153
+msgid "Additional Features"
+msgstr ""
+
+#: modules/lecture/tmpl/lecturedetails.php:200
+msgid "Download All Files"
+msgstr ""
+
+#: modules/lecture/tmpl/lecturedetails.php:212
+msgid "File"
+msgstr ""
+
+#: modules/lecture/tmpl/lecturedetails.php:326
+msgid "Previous Lecture"
+msgstr ""
+
+#: modules/lecture/tmpl/lecturedetails.php:326
+#: modules/lecture/tmpl/lecturedetails.php:333
+msgid " Lecture"
+msgstr ""
+
+#: modules/lecture/tmpl/lecturedetails.php:331
+msgid "Course Completed"
+msgstr ""
+
+#: modules/lecture/tmpl/lecturedetails.php:331
+msgid "Completed"
+msgstr ""
+
+#: modules/lecture/tmpl/lecturedetails.php:333
+msgid "Next Lecture"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:7
+#: modules/postinstallation/tmpl/admin_stepfour.php:7
+#: modules/postinstallation/tmpl/admin_stepone.php:10
+#: modules/postinstallation/tmpl/admin_stepthree.php:14
+#: modules/postinstallation/tmpl/admin_steptwo.php:14
+msgid "Learn Manager Settings"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:38
+#: modules/postinstallation/tmpl/admin_stepfour.php:38
+#: modules/postinstallation/tmpl/admin_stepone.php:41
+#: modules/postinstallation/tmpl/admin_stepthree.php:45
+#: modules/postinstallation/tmpl/admin_steptwo.php:45
+msgid "Sample data"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:44
+#: modules/postinstallation/tmpl/admin_stepfour.php:44
+#: modules/postinstallation/tmpl/admin_stepone.php:47
+#: modules/postinstallation/tmpl/admin_stepthree.php:51
+#: modules/postinstallation/tmpl/admin_steptwo.php:51
+msgid "Complete"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:50
+#: modules/postinstallation/tmpl/admin_stepfour.php:50
+msgid "Sample Data"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:53
+msgid "Setting Completed"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:58
+msgid "Setting you have applied has been save successfully"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_settingcomplete.php:72
+#: modules/postinstallation/tmpl/admin_stepfour.php:109
+#: modules/postinstallation/tmpl/admin_stepthree.php:120
+#: modules/postinstallation/tmpl/admin_steptwo.php:128
+#: modules/premiumplugin/tmpl/admin_step2.php:88
+#: modules/premiumplugin/tmpl/admin_step2.php:111
+msgid "Back"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepfour.php:55
+msgid "Insert Sample Data"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepfour.php:61
+#: modules/student/tmpl/admin_studentqueue.php:64
+msgid "student"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepfour.php:95
+msgid "JS Learn Manager Sample Data"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepfour.php:100
+msgid ""
+"if yes is selected then pages and menus of JS Learn Manager template will be "
+"created and published."
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:2
+msgid "DD MM YYYY"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:3
+msgid "MM DD YYYY"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:4
+msgid "YYYY MM DD"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:78
+msgid "Select default page"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:80
+msgid ""
+"Select Learn Manager default page, on action system will redirect on "
+"selected page"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:81
+msgid "If not select default page, email links and support icon might not work"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:100
+msgid "Admin will receive email notifications on this address"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:104
+msgid "System email address"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:109
+msgid "Email address that will be used to send emails"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:113
+msgid "Email from name"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:118
+msgid "Sender name that will be used in emails"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:125
+msgid "Select breadcrumbs"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:131
+msgid "Default date format"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:134
+msgid "Select date format"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepone.php:136
+msgid "Date format for plugin"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepthree.php:62
+msgid "Student default role"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepthree.php:67
+msgid "This role will auto assign to new student"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepthree.php:79
+msgid "Student can view instructor area"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepthree.php:93
+#: modules/postinstallation/tmpl/admin_steptwo.php:76
+msgid "Effects on user registration"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_stepthree.php:107
+msgid "Can enroll in course"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_steptwo.php:67
+msgid "If no then front end instructor area is not accessible"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_steptwo.php:71
+msgid "Allow user register as instructor"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_steptwo.php:80
+msgid "Instructor default role"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_steptwo.php:85
+msgid "This role will auto assign to new instructor"
+msgstr ""
+
+#: modules/postinstallation/tmpl/admin_steptwo.php:89
+msgid "Instructor can view student area"
+msgstr ""
+
+#: modules/premiumplugin/controller.php:73
+msgid "Please insert activation key to proceed"
+msgstr ""
+
+#: modules/premiumplugin/controller.php:101
+#: modules/premiumplugin/controller.php:130
+msgid "Addon Installation Failed"
+msgstr ""
+
+#: modules/premiumplugin/controller.php:162
+msgid "Addon installation failed, Directory permission error"
+msgstr ""
+
+#: modules/premiumplugin/controller.php:173
+msgid "Addon Installation Failed, File download error"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_missingaddon.php:6
+#: modules/premiumplugin/tmpl/admin_step1.php:11
+#: modules/premiumplugin/tmpl/admin_step2.php:15
+#: modules/premiumplugin/tmpl/admin_step3.php:6
+msgid "Premium Add ons"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_missingaddon.php:14
+msgid "addon in no longer active"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step1.php:26
+#: modules/premiumplugin/tmpl/admin_step2.php:29
+msgid "Wordpress Plugin"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step1.php:29
+msgid ""
+"JS Learn Manager is extensive, featured rich and comprehensive learning "
+"management system for WordPress. JS Learn Manager comes with a lots of "
+"features like course list, course search with many filters, create course, "
+"create lectures, Add Quizzes, take lectures, enrollment, shortlist courses, "
+"Messaging, Social logins, Social sharing, Awards and many more."
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step1.php:34
+msgid "JS Learn Manager Addon Installer"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step1.php:38
+msgid "Add on list"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step1.php:43
+msgid "Please Insert Your Transaction key"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step1.php:59
+msgid "Transaction key"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step1.php:65
+#: modules/premiumplugin/tmpl/admin_step2.php:120
+msgid "Proceed"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step2.php:32
+msgid ""
+"WP Learn Manager is extensive, featured rich and comprehensive learning "
+"management system for WordPress. WP Learn Manager comes with a lots of "
+"features like course list, course search with many filters, create course, "
+"create lectures, Add Quizzes, take lectures, enrollment, shortlist courses, "
+"Messaging, Social logins, Social sharing, Awards and many more."
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step2.php:37
+msgid "WP Learn Manager Addon Installer"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step2.php:46
+msgid "Select Addons for download"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step2.php:74
+msgid "All allowed add ons are already installed"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step2.php:77
+msgid "You are not allowed to install any add on"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step2.php:96
+msgid "Select All Addons"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step2.php:102
+msgid "Somthing Went Wrong"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step3.php:19
+msgid "Add ons installed and activated successfully"
+msgstr ""
+
+#: modules/premiumplugin/tmpl/admin_step3.php:22
+msgid ""
+"Add ons for WP Learn Manager have been installed and activated successfully. "
+msgstr ""
+
+#: modules/premiumplugin/tmpl/missingaddon.php:10
+msgid "Page not found"
+msgstr ""
+
+#: modules/slug/model.php:119
+msgid "Edit Slug"
+msgstr ""
+
+#: modules/slug/model.php:123
+msgid "Slug Name"
+msgstr ""
+
+#: modules/slug/tmpl/admin_slug.php:63 modules/slug/tmpl/admin_slug.php:69
+msgid "Slug Prefix"
+msgstr ""
+
+#: modules/slug/tmpl/admin_slug.php:66
+msgid "This prefix will be added to slug incase of homepage links"
+msgstr ""
+
+#: modules/slug/tmpl/admin_slug.php:72
+msgid "This prefix will be added to slug incase of conflict"
+msgstr ""
+
+#: modules/slug/tmpl/admin_slug.php:75
+msgid "Search By Slug"
+msgstr ""
+
+#: modules/slug/tmpl/admin_slug.php:81
+msgid "Reset All"
+msgstr ""
+
+#: modules/slug/tmpl/admin_slug.php:90
+msgid "Slug List"
+msgstr ""
+
+#: modules/student/tmpl/admin_studentdetail.php:26
+msgid "Student Details"
+msgstr ""
+
+#: modules/student/tmpl/admin_studentdetail.php:72
+#: modules/student/tmpl/admin_students.php:100
+msgid "Student ID"
+msgstr ""
+
+#: modules/student/tmpl/admin_studentdetail.php:84
+msgid "Stortlist Courses"
+msgstr ""
+
+#: modules/student/tmpl/admin_studentdetail.php:141
+msgid "Un-enroll"
+msgstr ""
+
+#: modules/student/tmpl/admin_studentdetail.php:142
+msgid "View Detail"
+msgstr ""
+
+#: modules/student/tmpl/admin_studentqueue.php:93
+msgid "student ID"
+msgstr ""
+
+#: modules/student/tmpl/studentcourselist.php:41
+msgid "Are you sure to delete this course?"
+msgstr ""
+
+#: modules/student/tmpl/studentcourselist.php:41
+msgid "Will not longer accessable."
+msgstr ""
+
+#: modules/student/tmpl/studentcourselist.php:46
+#: modules/user/tmpl/register.php:31
+msgid "Instructor image"
+msgstr ""
+
+#: modules/student/tmpl/studentdashboard.php:117
+#: modules/student/tmpl/studentdashboard.php:120
+msgid "View All"
+msgstr ""
+
+#: modules/student/tmpl/studentdashboard.php:178
+msgid "You have no shortlist course"
+msgstr ""
+
+#: modules/student/tmpl/studentprofile.php:181
+#: modules/student/tmpl/studentprofile.php:184
+msgid "Shortlisted"
+msgstr ""
+
+#: modules/systemerror/tmpl/admin_systemerrors.php:17
+msgid "Error Log"
+msgstr ""
+
+#: modules/systemerror/tmpl/admin_systemerrors.php:26
+msgid "View"
+msgstr ""
+
+#: modules/user/tmpl/admin_editprofileform.php:12
+#: modules/user/tmpl/instructorregister.php:15
+#: modules/user/tmpl/profileform.php:8 modules/user/tmpl/studentregister.php:16
+msgid "Male"
+msgstr ""
+
+#: modules/user/tmpl/admin_editprofileform.php:13
+#: modules/user/tmpl/instructorregister.php:16
+#: modules/user/tmpl/profileform.php:9 modules/user/tmpl/studentregister.php:17
+msgid "Female"
+msgstr ""
+
+#: modules/user/tmpl/admin_editprofileform.php:75
+msgid "User Logo"
+msgstr ""
+
+#: modules/user/tmpl/admin_editprofileform.php:187
+msgid "Enter Facebook Address"
+msgstr ""
+
+#: modules/user/tmpl/admin_editprofileform.php:191
+msgid "Enter Twitter Address"
+msgstr ""
+
+#: modules/user/tmpl/admin_editprofileform.php:195
+msgid "Enter Linkedin Address"
+msgstr ""
+
+#: modules/user/tmpl/admin_editprofileform.php:226
+msgid "Save User"
+msgstr ""
+
+#: modules/user/tmpl/admin_users.php:4
+msgid "Are you sure to remove"
+msgstr ""
+
+#: modules/user/tmpl/admin_users.php:44
+msgid "data only from our system"
+msgstr ""
+
+#: modules/user/tmpl/admin_users.php:45
+msgid "Delete user and their data also from wp"
+msgstr ""
+
+#: modules/user/tmpl/admin_users.php:49 modules/user/tmpl/admin_users.php:150
+msgid "Active"
+msgstr ""
+
+#: modules/user/tmpl/admin_users.php:50 modules/user/tmpl/admin_users.php:153
+#: modules/user/tmpl/admin_users.php:218
+msgid "Disable"
+msgstr ""
+
+#: modules/user/tmpl/admin_users.php:51
+msgid "Delete Data"
+msgstr ""
+
+#: modules/user/tmpl/admin_users.php:52
+msgid "Delete WP User"
+msgstr ""
+
+#: modules/user/tmpl/admin_users.php:217
+msgid "Delete data"
+msgstr ""
+
+#: modules/user/tmpl/admin_users.php:218
+msgid "Enable"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.inc.php:41
+#: modules/user/tmpl/profileform.inc.php:35
+#: modules/user/tmpl/studentregister.inc.php:37
+msgid "This file is not allowed, please upload valid file."
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.inc.php:53
+#: modules/user/tmpl/profileform.inc.php:46
+#: modules/user/tmpl/studentregister.inc.php:49
+msgid "File Size Must be less than "
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.inc.php:53
+#: modules/user/tmpl/profileform.inc.php:46
+#: modules/user/tmpl/studentregister.inc.php:49
+msgid " KB"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:39
+msgid "Register as an Instructor"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:43
+msgid "Discover your potentials"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:45
+msgid ""
+"Create an online video course and earn money by teaching people around the "
+"world."
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:50
+msgid "Make a plan"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:50
+msgid "Plan your course"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:51
+msgid "Inspire students"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:52
+msgid "Earn Money"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:58
+msgid ""
+"You start with your passion and knowledge. Then choose a topic and plan your "
+"lectures. You get to teach the way you want"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:59
+msgid "even create courses in multiple languages and inspire more students."
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:64
+msgid ""
+"Help people to learn new skills, advance their careers, and explore their "
+"hobbies by sharing your knowledge."
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:69
+msgid ""
+"Earn money every time a student purchases your course. Get paid monthly "
+"through PayPal or Payoneer, it's your choice."
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:82
+#: modules/user/tmpl/profileform.php:52 modules/user/tmpl/profileform.php:54
+#: modules/user/tmpl/studentregister.php:51
+msgid "User image"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:91
+#: modules/user/tmpl/profileform.php:68
+#: modules/user/tmpl/studentregister.php:60
+msgid "Max Image Size "
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:92
+#: modules/user/tmpl/profileform.php:69
+#: modules/user/tmpl/studentregister.php:61
+msgid "Extensions Allowed "
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:106
+#: modules/user/tmpl/studentregister.php:75
+msgid "First Name"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:110
+#: modules/user/tmpl/studentregister.php:79
+msgid "Last Name"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:118
+#: modules/user/tmpl/studentregister.php:87
+msgid "Password Again"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:137
+#: modules/user/tmpl/studentregister.php:106
+msgid "Select Gender"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:153
+#: modules/user/tmpl/profileform.php:135
+#: modules/user/tmpl/studentregister.php:122
+msgid "Select Country"
+msgstr ""
+
+#: modules/user/tmpl/instructorregister.php:222
+#: modules/user/tmpl/studentregister.php:190
+msgid "Register New Account"
+msgstr ""
+
+#: modules/user/tmpl/profileform.php:63
+msgid "Delete image"
+msgstr ""
+
+#: modules/user/tmpl/profileform.php:68
+msgid " kb"
+msgstr ""
+
+#: modules/user/tmpl/profileform.php:195
+msgid "Update Profile"
+msgstr ""
+
+#: modules/user/tmpl/register.php:18
+msgid "Student register"
+msgstr ""
+
+#: modules/user/tmpl/register.php:20
+msgid "Student image"
+msgstr ""
+
+#: modules/user/tmpl/register.php:22
+msgid "To become a student"
+msgstr ""
+
+#: modules/user/tmpl/register.php:24
+msgid ""
+"Learn new skills, advance your career, and explore your hobbies by getting "
+"advance knowledge."
+msgstr ""
+
+#: modules/user/tmpl/register.php:29
+msgid "Instructor register"
+msgstr ""
+
+#: modules/user/tmpl/register.php:33
+msgid "To become an instructor"
+msgstr ""
+
+#: modules/user/tmpl/register.php:35
+msgid ""
+"Help people learn new skills, advance their careers, and explore their "
+"hobbies by sharing your knowledge."
+msgstr ""
+
+#: modules/user/tmpl/studentregister.php:40
+msgid "Register as a Student"
+msgstr ""

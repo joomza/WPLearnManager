@@ -1,0 +1,167 @@
+.jslm_cp-baner-left{width: 100%;}
+.jslm_cp-baner-center {width: calc(50% - 7px);margin-right: 7px;margin-left: 0px;}
+.jslm_cp-baner-right {width: calc(50% - 7px);margin-left: 7px;}
+div#jslearnmanageradmin-wrapper div.jslm_newest-course-portion div.jslm_course-portion div.jslm_course-admin-cp-data div.jslm_cp-course-list-left {width: 100%;}
+div#jslearnmanageradmin-wrapper div.jslm_newest-course-portion div.jslm_course-portion div.jslm_course-admin-cp-data div.jslm_cp-course-crted {width: 35%;}
+div#jslearnmanageradmin-wrapper div.jslm_newest-course-portion div.jslm_course-portion div.jslm_course-admin-cp-data .jslm_cp-course-prorty {width: 30%;}
+div.jslm_cp-addon-wrp {width: 100%;margin-left: 0px;}
+div.jslm_cp-std-wrp {width: 100%;margin-right: 0px;margin-bottom: 20px;}
+div.jslm_cp-video-baner div.jslm_cp-video-baner-cnt {left: 20px;}
+div.jslm_cp-video-baner div.jslm_cp-video-banner-btn-wrp {left: 20px;}
+div.js-other-products-wrp div.js-other-products-detail div.js-other-products-image {width: calc(100% / 2);}
+
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div#jslearnmanager-credit-pack-wrap div#jslearnmanager-credit-pack-wrapper div.jslearnmanager-credit-pack-data div.jslearnmanager-credit-pack-data-top span.jslearnmanager-credit-pack-top-left{width: 67%;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div#jslearnmanager-credit-pack-wrap div#jslearnmanager-credit-pack-wrapper div.jslearnmanager-credit-pack-data div.jslearnmanager-credit-pack-data-top span.jslearnmanager-credit-pack-top-right{width: 33%;}
+div#jslearnmanageradmin-wrapper div#jslearnmanager-admin-wrapper div.jslm_count1 div.jslm_box{width: calc(100% / 2 - 10px);margin-right: 5px;margin-left: 5px;margin-bottom: 10px;}
+div#jslearnmanageradmin-wrapper div#jslearnmanager-admin-wrapper div.jslm_box-wrapper a.jslm_box{width: calc(100% / 4 - 10px);margin-right: 5px;margin-left: 5px;margin-bottom: 10px;}
+
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslm_js-admin-joomsky-wrapper{width: 100%;display: inline-block; } 
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslm_js-admin-joomsky-wrapper span.jslm_js-admin-title{width:100% !important; float: none;text-align: center;background:#f1f1f1;padding-bottom: 0px; } 
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslm_js-admin-joomsky-wrapper span.jslm_js-admin-title img{display: inline-block;border: none;background-color: #FFFFFF;margin-bottom: 0px;} 
+div#jslearnmanageradmin-wrapper div.jslm_page-actions span.jslm_sort span.jslm_sort-field select#jslm_sorting{height: 29px;}
+div#jslearnmanageradmin-wrapper div.jslm_js-admin-joomsky-wrapper span.jslm_detail-text{width: 100%;}
+div#jslearnmanageradmin-wrapper input.jslm_inputval{width: 79%;}
+div#jslearnmanageradmin-wrapper div.jslearnmanager-form-wrap div.jslm_js-field-wrapper div.jslm_js-field-obj div.jslm_js-field-obj-field{width:100%;}
+div#jslearnmanager-popup{width:78%;}
+div#jslearnmanager-popup div.jslm_icon-parent{display:none;}
+div#jslm_popup_main div#jslm_checkbox-popup-wrapper form#jslm_filter_form {display: inline-block;text-align: center;width: 100%;}
+div#jslearnmanageradmin-wrapper div#jslm_popup_main div.jslm_checkbox-filter {float:left; padding-left: 5; padding-right: 0px; width: 90%; margin-left: 5%; margin-right: 5%;}
+div#jslm_popup_main div#jslm_checkbox-popup-wrapper span.jslm_submit-button-popup {float: none;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div#jslearnmanager-user-listing-wrap div#jslearnmanager-user-listing-top-wrap div#jslearnmanager-user-listing-data-wrap div.jslearnmanager-user-listing-left span.jslearnmanager-user-listing-data{}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div#jslearnmanager-credit-pack-wrap div#jslearnmanager-credit-pack-wrapper div.jslearnmanager-credit-pack-data div.jslearnmanager-credit-pack-data-middle span.jslm_middle-left{width: 72%;}
+div#jslearnmanageradmin-wrapper div.jslearnmanager-form-wrap div.jslm_js-field-wrapper div.jslm_js-field-obj div.jslm_js-field-obj-text div.jslm_txt{padding-left: 0px;}
+
+/* Admin Js Learn Manager */ 
+div#jslearnmanageradmin-wrapper div.jslm_newest-course-portion div.jslm_course-portion{overflow-x: auto;}
+/* Admin Js Learn Manager */ 
+
+/* Admin Course list */ 
+div#jslearnmanageradmin-wrapper form#jslearnmanager-list-form div.course-container div#item-data div.item-details div.item-title{width: 50%;}
+div#jslearnmanageradmin-wrapper form#jslearnmanager-list-form div.course-container div#item-data div.item-details div.jslm_date{width: 30%;text-align: left;}
+div#jslearnmanageradmin-wrapper form#jslearnmanager-list-form div.course-container div#item-data div.item-details div.jslm_price{width: 20%;}
+div.item-actions div a.js-action-link.button{margin-top: 10px;float: left;}
+/* Admin Course list */ 
+
+/* Admin Edit Course */ 
+div.js-row div.js-col-md-12 div.js-col-md-8.jslm_padding_zero{padding: 0px;}
+div.js-row div.js-col-md-12 div.js-col-md-4.jslm_padding_zero{padding: 0px;}
+div.js-row div.js-col-md-12 div.js-col-md-12.jslm_padding_zero{padding: 0px;}
+div.js-row div.js-col-md-12 div.js-col-md-8 div.jslm_heading div.jslm_heading_left{width: 100%;text-align: center;}
+div.js-row div.js-col-md-8 div.jslm_coursedetail_wrapper{padding: 25px 0px 0px 0px;}
+div.js-row div.js-col-md-8 div.jslm_coursedetail_wrapper div.jslm_data_wrapper div.jslm_name_title{width: 100%;padding: 4px 0px 5px 0px;}
+div.js-row div.js-col-md-8 div.jslm_coursedetail_wrapper div.jslm_data_wrapper div.jslm_name{padding: 4px 0px 5px 0px;}
+div.js-row div.js-col-md-12 div.js-col-md-12 ul.jslm_ul{margin-top: 20px;float: left;width: 100%;}
+div.js-row div.js-col-md-12 div.js-col-md-12 div.tab-content div.tab-pane div.modal div.modal-dialog.jslm_modal_dailog{float:right;width: calc(100% - 95px);}
+div.js-row div.js-col-md-12 div.tab-content div.tab-pane div.jslm_member_data{width: calc(100% / 2 - 10px);}
+div.js-row div.js-col-md-12 div.tab-content div.tab-pane div.jslm_member_data div.jslm_right_side span.jslm_text1{width: 100%;padding: 5px 0px;border-bottom:1px solid #ccc; }
+div.js-row div.js-col-md-12 div.tab-content div.tab-pane div.jslm_member_data div.jslm_right_side span.jslm_date{width: 100%;float: left;padding: 5px 0px;}
+div.js-row div.js-col-md-12 div.tab-content div.tab-pane div.jslm_member_data div.jslm_right_side span.jslm_text2{padding: 5px 0px;}
+/* Admin Edit Course */ 
+
+
+/* Admin Add Lecture */ 
+div.jslm_top_content_data div.jslm_right_content div.jslm_middle_content span.jslm_data_wrapper{width: calc(100% / 2 - 20px);}
+div.jslm_content_data div.tab-content div.tab-pane div.jslm_content_wrapper div.jslm_append_files div.jslm_upload_files_wrapper input.jslm_input_field_style{width: 92%;}
+div.jslm_content_data div.tab-content div.tab-pane div.jslm_content_wrapper div.jslm_append_files div.jslm_upload_files_wrapper input.jslm_delete_button{width: calc(100% - 92% - 10px);}
+div.jslm_content_data div.tab-content div.tab-pane div.jslm_content_wrapper div.jslm_wrapper div.jslm_quiz_wrapper div.jslm_quiz_body div.jslm_row_data div.jslm_choice div.jslm_quiz_input_wrapper,
+div.jslm_content_data div.tab-content div.tab-pane div.jslm_content_wrapper div.jslm_wrapper div.jslm_quiz_wrapper div.jslm_row_data div.jslm_choice div.jslm_quiz_input_wrapper{width: 92%;}
+div.jslm_content_data div.tab-content div.tab-pane div.jslm_content_wrapper div.jslm_wrapper div.jslm_quiz_wrapper div.jslm_quiz_body div.jslm_row_data div.jslm_choice span.jslm_delete, 
+div.jslm_content_data div.tab-content div.tab-pane div.jslm_content_wrapper div.jslm_wrapper div.jslm_quiz_wrapper div.jslm_quiz_heading span.jslm_delete, 
+div.jslm_content_data div.tab-content div.tab-pane div.jslm_content_wrapper div.jslm_wrapper div.jslm_quiz_wrapper span.jslm_delete{width: calc(100% - 92% - 5px);}
+div.jslm_content_data div.tab-content div.tab-pane div.jslm_content_wrapper div.jslm_wrapper div.jslm_quiz_wrapper div.jslm_heading_width{width: 92%;}
+div.jslm_content_data div.tab-content div.tab-pane div.jslm_content_wrapper div.jslm_wrapper div.jslm_quiz_wrapper div.jslm_row_data div.jslm_choice div.jslm_quiz_input_wrapper div.jslm_checkbox_wrp input.jslm_input_checkbox_style{margin: 0;}
+
+/* Admin Add Lecture */ 
+
+/* Admin Instructors */ 
+div.item-data div.item-title{width: 100%;}
+div#jslearnmanageradmin-wrapper div.instructor-container div.stat-parts{width: calc(100% / 2 - 20px);}
+/* Admin Instructors */ 
+
+/* Admin Users */ 
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div#jslearnmanager-user-listing-wrap div#jslearnmanager-user-listing-top-wrap div#jslearnmanager-user-listing-data-wrap div.jslearnmanager-user-listing-left{width: 100%;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div#jslearnmanager-user-listing-wrap div#jslearnmanager-user-listing-top-wrap div#jslearnmanager-user-listing-data-wrap div.jslearnmanager-user-listing-left span.jslearnmanager-user-listing-data{width: calc(100% / 2);}
+/* Admin Users */ 
+
+/* Admin Awards */ 
+div#jslearnmanageradmin-wrapper form#jslearnmanager-list-form{overflow-x: auto;}
+/* Admin Awards */ 
+
+/* Admin Report */ 
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data a.overall span.left{width: 85%;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data a.overall span.right{width: 15%;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data a.instructor span.left{width: 85%;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data a.instructor span.right{width: 15%;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data a.student span.left{width: 85%;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data a.student span.right{width: 15%;}
+div.jslm_boxeswrapper div.jslm_box{width: calc(100% / 2 - 20px);}
+div.jslm_categorycharts{width: 100%;}
+/* Admin Report */ 
+
+/* Admin Messages */
+div.item-data div.message-title{padding: 11px 0 7px 15px;}
+div#item-data div.item-details{text-align: left;}
+div.item-data div div.item-values span.heading{float: left;}
+div.item-data div div.item-values span.value{float: left;}
+div.item-data div div.msg-values{padding: 9px 0px 9px 10px;}
+p{margin:0px;}
+div.item-title div.flag-and-type{top: unset;}
+input.jslearnmanager-cb{left: -3px;top: 0px;}
+div.item-actions div a.js-action-link.button{margin-top: 0px;float: right;}
+div#jslearnmanageradmin-wrapper div#send-message-wrapper div.top-data div.top-data-top span.title{width: 50%;}
+/* Admin Messages */ 
+
+/* Admin Payouts */
+
+/* Admin Payouts */ 
+
+/* Admin Earning */ 
+div#jslearnmanageradmin-wrapper div.jslm-graph-wrapper div.jslm-graph-top div.jslm-left{width: 40%;}
+div#jslearnmanageradmin-wrapper div.jslm-graph-wrapper div.jslm-graph-top div.jslm-right{width: 60%;}
+div#jslearnmanageradmin-wrapper div.jslm-graph-wrapper div.jslm-graph-top div.jslm-right span.jslm-gross{text-align: left;width: auto;}
+div#jslearnmanageradmin-wrapper div.jslm-graph-wrapper div.jslm-graph-top div.jslm-right span.jslm-net{width: auto;}
+/* Admin Earning */ 
+
+div#jslms-help-data-wrp .jslmadmin-help-top {background: #fff !important;}
+div#jslms-help-data-wrp .jslmadmin-help-top .jslmadmin-help-top-left,
+div#jslms-help-data-wrp .jslmadmin-help-top .jslmadmin-help-top-right {width: 100% !important;margin: 0 0 20px !important;}
+div#jslms-help-data-wrp .jslmadmin-help-top .jslmadmin-help-top-right {margin-bottom: unset !important;}
+div#jslms-help-data-wrp .jslmadmin-help-top .jslmadmin-help-top-left .jslmadmin-help-top-left-cnt-img,
+div#jslms-help-data-wrp .jslmadmin-help-top .jslmadmin-help-top-right .jslmadmin-help-top-right-cnt-img {}
+div#jslms-help-data-wrp .jslmadmin-help-top .jslmadmin-help-top-left .jslmadmin-help-top-left-cnt-info,
+div#jslms-help-data-wrp .jslmadmin-help-top .jslmadmin-help-top-right .jslmadmin-help-top-right-cnt-info {padding: 20px 0 20px 10px !important;}
+div#jslms-help-data-wrp .jslmadmin-help-btm .jslmadmin-help-btm-wrp .jslmadmin-help-btm-cnt {text-align: center;}
+div#jslms-help-data-wrp .jslmadmin-help-btm .jslmadmin-help-btm-wrp .jslmadmin-help-btm-cnt {width: 100% !important;}
+div#jslms-help-data-wrp .jslmadmin-help-btm .jslmadmin-help-btm-wrp .jslmadmin-help-btm-cnt a {float: left;width: 100% !important;}
+div#jslms-help-data-wrp .jslmadmin-help-btm .jslmadmin-help-btm-wrp .jslmadmin-help-btm-cnt a .jslmadmin-help-btm-cnt-img {}
+div#jslms-help-data-wrp .jslmadmin-help-btm .jslmadmin-help-btm-wrp .jslmadmin-help-btm-cnt a .jslmadmin-help-btm-cnt-img img {}
+div#jslms-help-data-wrp .jslmadmin-help-btm .jslmadmin-help-btm-wrp .jslmadmin-help-btm-cnt a .jslmadmin-help-btm-cnt-title {text-align: left;padding-left: 10px !important;}
+div#jslms-help-data-wrp .jslmadmin-help-btm .jslmadmin-help-btm-wrp .jslmadmin-help-btm-cnt a .jslmadmin-help-btm-cnt-title span {font-size: 18px !important;}
+
+/* Configurations */
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper {padding-left: unset !important;}
+div#jslearnmanageradmin-wrapper div.jslm_dashboard {padding-bottom: 115px;}
+div#jslearnmanageradmin-leftmenu {float: left;width: 100%;margin-bottom: 10px;position: unset;}
+div#jslearnmanageradmin-leftmenu div#jslearnmanageradmin-logo a.jsst-anchor {display: block;opacity: 1;}
+div#jslearnmanageradmin-leftmenu ul.jslearnmanageradmin-menu-links {display: none;}
+div#jslearnmanageradmin-data {padding-left: unset;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form {float: left;width: 100%}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-configurations-toggle {display: block;float: left;width: 100%;background: #fff;padding: 10px;border-bottom: 1px solid #1572e8;margin-top: -70px;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-configurations-toggle img {float: left;background: #1572e8;padding: 10px;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-configurations-toggle span.jslm_text {float: left;margin: 11px 0px 11px 11px;font-size: 22px;font-weight: 400;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-left-menu {display: none;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-left-menu.show {display: block;width: 100%;min-height: unset;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-right-content {width: 100%;padding: 0;margin-top: 10px;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-right-content div.jslm_tabInner div.jslm_gen_body div.jslm_gen_body-inner div.js-learn-manager-configuration-row div.js-learn-manager-configuration-title {width: 30%;text-align: unset !important;padding: 10px 0 !important;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-right-content div.jslm_tabInner div.jslm_gen_body div.jslm_gen_body-inner div.js-learn-manager-configuration-row div.js-learn-manager-configuration-value,
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-right-content div.jslm_tabInner div.jslm_gen_body div.jslm_gen_body-inner div.js-learn-manager-configuration-row div.js-learn-manager-configuration-video {width: 70%;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-right-content div.jslm_tabInner div.jslm_gen_body div.jslm_gen_body-inner div.js-learn-manager-configuration-row div.js-learn-manager-configuration-video {float: right;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-right-content div.jslm_tabInner div.jslm_gen_body div.jslm_gen_body-inner div.js-learn-manager-configuration-row div.js-learn-manager-configuration-value input,
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-right-content div.jslm_tabInner div.jslm_gen_body div.jslm_gen_body-inner div.js-learn-manager-configuration-row div.js-learn-manager-configuration-value select {width: 100%;max-width: 100%;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-right-content div.jslm_tabInner div.jslm_gen_body div.jslm_gen_body-inner div.js-learn-manager-configuration-row div.js-learn-manager-configuration-value.full-width {width: 100%;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslmsadmin-right-content div.jslm_tabInner div.jslm_gen_body div.jslm_gen_body-inner div.js-learn-manager-configuration-row div.js-learn-manager-configuration-video .js-cp-video-popup {width: 100%;margin-left: unset;}
+div.menu-collasped-active div#jslearnmanageradmin-leftmenu {width: 100%;}
+div.menu-collasped-active div#jslearnmanageradmin-leftmenu ul.jslearnmanageradmin-menu-links {display: block;}
+div.menu-collasped-active div#jslearnmanageradmin-leftmenu ul.jslearnmanageradmin-menu-links {}
+div.menu-collasped-active div#jslearnmanageradmin-data {padding-left: unset;}
+div#jslearnmanageradmin-wrapper div#jslearnmanageradmin-data div.jslmsadmin-wrapper-white-bg.jslmsadmin-config-main-wrapper form.jslearnmanager-form div.jslm_js-form-button {width: 100%;margin-left: unset;}

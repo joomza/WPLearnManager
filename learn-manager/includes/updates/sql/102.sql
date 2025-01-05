@@ -1,0 +1,14 @@
+ALTER TABLE `#__js_learnmanager_config` ADD `addon` VARCHAR(100) NOT NULL AFTER `configfor`;
+UPDATE `#__js_learnmanager_config` SET `addon` = 'sociallogin' WHERE `configname` IN ('clientsecretgoogle','apikeylinkedin','clientsecretlinkedin','apikeyxing','clientsecretxing','loginwithfacebook','loginwithlinkedin','loginwithxing','loginwithgoogle');
+UPDATE `#__js_learnmanager_config` SET `addon` = 'socialshare' WHERE `configname` IN ('tumbler_share','fb_share','google_like','google_share','blogger_share','instgram_share','linkedin','digg_share','twitter_share','pintrest_share','yahoo_share','clientsecretfacebook');
+UPDATE `#__js_learnmanager_config` SET `addon` = 'message' WHERE `configname` IN ('tmenu_message_instructor','instructorsend_message','tmenu_message_student','tmenu_message_visitor');
+UPDATE `#__js_learnmanager_config` SET `addon` = 'courserss' WHERE `configname` IN ('course_rss','rss_course_title','rss_course_ttl','rss_course_copyright','rss_course_webmaster','rss_course_editor','rss_course_image','rss_course_categories','rss_course_description');
+UPDATE `#__js_learnmanager_config` SET `addon` = 'featuredcourse' WHERE `configname` IN ('featuredcourse_autoapprove','showfeaturedcourseinlistcourses','nooffeaturedcourseinlisting','system_have_featured_course','allow_add_featuredcourse');
+UPDATE `#__js_learnmanager_config` SET `addon` = 'paymentplan' WHERE `configname` IN ('auto_assign_payment_plan');
+UPDATE `#__js_learnmanager_config` SET `addon` = 'paidcourse' WHERE `configname` IN ('default_curreny_forpaid','allow_add_paidcourse');
+UPDATE `#__js_learnmanager_config` SET `addon` = 'awards' WHERE `configname` IN ('award_multiple_or_maximum_rule');
+UPDATE `#__js_learnmanager_config` SET `addon` = 'coursereview' WHERE `configname` IN ('allow_review');
+UPDATE `#__js_learnmanager_config` SET `addon` = 'quiz' WHERE `configname` IN ('allow_take_quiz');
+UPDATE `#__js_learnmanager_config` SET `addon` = 'retakequiz' WHERE `configname` IN ('retake_quiz');
+REPLACE INTO `#__js_learnmanager_config` (`configname`, `configvalue`, `configfor`) VALUES ('versioncode','1.0.2','default');
+REPLACE INTO `#__js_learnmanager_config` (`configname`, `configvalue`, `configfor`) VALUES ('productversion', '102', 'default');

@@ -1,0 +1,60 @@
+/* NAV */
+div#jslearnmanager-header-main-wrapper nav ul li{width: 100%;text-align: left;}
+/*search */
+div.jslm_content_data div.jslm_search_content div.jslm_top_search div.jslm_search_box div.jslm_search_box_left div.jslm_input_search_left i.fa-calendar{left: 225px;}
+/* Course List */
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_left{width: 225px;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right{width: calc(100% - 225px);}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right div.jslm_right_top div.jslm_right_top_left{width: 49%;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right div.jslm_right_top div.jslm_right_top_stars{width: 51%;}
+/* Course detail */
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_top_wrapper{padding-left: 0;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_top_wrapper div.jslm_right_wrap div.jslm_enroll_btn_wrap div.jslm_enroll_course_btn a{padding: 14px 15px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_top_wrapper div.jslm_right_wrap div.jslm_enroll_btn_wrap div.jslm_price_btn{}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_members_wrapper div.jslm_member_data div.jslm_left_side{padding-left: 5px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_members_wrapper div.jslm_member_data div.jslm_left_side div.jslm_img_wrapper{width: 75px;height: 75px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_members_wrapper div.jslm_member_data div.jslm_right_side{padding: 5px 0px 5px 5px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_reviews_wrapper div.jslm_comments_wrapper div.jslm_right_side div.jslm_top{padding-bottom: 10px;}
+/* course edit */
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_top_wrapper div.jslm_left_wrap{width: 45%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_top_wrapper div.jslm_right_wrap{width: 55%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_curriculum_wrapper div.jslm_curriculum_title div.jslm_row_heading.jslm_course_edit_curriculum{width: 74% !important;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_curriculum_wrapper div.jslm_curriculum_title div.jslm_add_new_btn{width: 26%;}
+/* Message */
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_left{width: calc(100% - 52% - 5px);}
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_right{width: 52%;padding-top: 19px;padding-right: 0px;padding-left: 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_right span.jslm_date{padding-right: 0px;float: left;}
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_right span.jslm_date.jslm_conv_date{float: right;}
+/* Dashboard */
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_dashboard_earning_graph_warpper div.jslm_earning_bottom div.jslm_earning_bottom_content_data{width: 100%;margin-bottom: 10px;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row span.jslm_status{margin-left: 5px;width: 10%;margin-right: 5px;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row span.jslm_price{width: 15%;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row div.jslm_date_name_wrp{width: 45%;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row div.jslm_course_approve_wrp{width: 40%;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row div.jslm_date_name_wrp span.jslm_student_name{overflow: hidden;white-space: nowrap;-o-text-overflow: ellipsis;text-overflow: ellipsis;width: 50%;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row div.jslm_price{width: 15%;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row div.jslm_course_approve_wrp span.jslm_course_name{width: 70%;}
+/* earning */
+div.jslm_content_data div.jslm_data_container div.jslm_earn_bottom_revenue div.jslm_revenue_wrapper {width: calc(100% / 3 - 8px);margin: 0 8px 8px 0;}
+
+/* Lecture View */
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_left_section_list div.jslm_accordian_wrp{display: none;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_close_btn{display: none;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper div.tab-content div.jslm_lecture_content_wrapper div.jslm-iframe a i{left: 110px;}
+/* Add Lecture */
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_img_list div.jslm_row{width: calc(100% / 2 - 10px);}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper div.jslm_quiz_body div.jslm_row_data div.jslm_choice div.jslm_quiz_input_wrapper{width: 85%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper div.jslm_quiz_body div.jslm_row_data div.jslm_choice span.jslm_delete{width: 15%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_img_list div.jslm_quiz_wrapper div.jslm_heading span.jslm_right_option{width: calc(100% - 87% - 5px);}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_img_list div.jslm_quiz_wrapper div.jslm_heading div.jslm_left_heading{width: 87%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_append_files div.jslm_upload_files_wrapper input.jslm_input_field_style{width: 82%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_append_files div.jslm_upload_files_wrapper button.jslm_delete_button{width: calc(100% - 82% - 10px);}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper span.jslm_delete a.jslm_delete_button{padding: 8px 15px;}
+/* My Profile */
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper div.jslm_left_data, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper div.jslm_left_data{width: 36%;}
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper div.jslm_right_data, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper div.jslm_right_data{width: calc(100% - 36% );}
+/* Register */
+div.jslm_content_data div.jslm_data_container div.jslm_register_wrapper div.jslm_left_data{width: 35%;}
+div.jslm_content_data div.jslm_data_container div.jslm_register_wrapper div.jslm_right_data{width: calc(100% - 35% - 15px);}

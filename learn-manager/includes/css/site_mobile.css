@@ -1,0 +1,186 @@
+/* Nav */
+div#jslearnmanager-header-main-wrapper nav ul li{width: 100%;text-align: left;}
+/* Search */
+div.jslm_content_data div.jslm_search_content div.jslm_top_title div.jslm_left_data {width: 100%;}
+div.jslm_content_data div.jslm_search_content div.jslm_top_title div.jslm_right_data {width: 100%;text-align: left;margin: 10px 0 5px;}
+div.jslm_content_data div.jslm_search_content div.jslm_top_title div.jslm_right_data span.jslm_sorting a.jslm_link, 
+div.jslm_content_data div.jslm_search_content div.jslm_top_title div.jslm_right_data span.jslm_sorting span.jslm_link {float: left;}
+div.jslm_content_data div.jslm_search_content div.jslm_top_title div.jslm_right_data span.jslm_sorting {width: 100%;}
+div.jslm_content_data div.jslm_search_content div.jslm_top_search div.jslm_search_box div.jslm_search_box_left{width: 100%;}
+div.jslm_content_data div.jslm_search_content div.jslm_top_search div.jslm_search_box div.jslm_search_box_right{width: 100%;margin-top: 10px;}
+div.jslm_content_data div.jslm_search_content div.jslm_top_search div.jslm_search_box div.jslm_search_box_left div.jslm_dropdown_wrp{width: 100%;margin-left: 0px;margin-top: 10px;}
+div.jslm_content_data div.jslm_search_content div.jslm_top_search div.jslm_search_box div.jslm_search_box_right div.jslm_search_btn_wrap button.jslm_search_button_style{width: calc(100% / 2 - 10px);}
+div.jslm_content_data div.jslm_search_content div.jslm_top_search div.jslm_search_box div.jslm_search_box_left div.jslm_input_search_left{width: 100%;margin-left: 0px;margin-top: 5px;}
+div.jslm_content_data div.jslm_search_content div.jslm_top_search div.jslm_search_box div.jslm_search_box_left div.jslm_input_search_left i.fa-calendar {left: auto;right: 15px;}
+/* Course List */
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_left{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right{width: 100%;border:unset;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right div.jslm_right_top{background-color: transparent;padding: 0px 12px 5px 12px;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right div.jslm_right_top div.jslm_right_top_left{width: 100%;padding: 10px 0;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right div.jslm_right_top div.jslm_right_top_stars{padding: 0;width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right div.jslm_right_top div.jslm_right_top_stars div.jslm_top_stars{padding: 0;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right div.jslm_right_top div.jslm_right_top_stars div.jslm_top_stars span.jslm_left_star{float: left;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right_bottom{padding: 0 5px; }
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right_bottom div.jslm_right_bottom_right{width: 100%;padding: 0 0 15px;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right_bottom div.jslm_right_bottom_right div.jslm_right_bottom_price{text-align: left;padding-left: 12px;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right_bottom div.jslm_right_bottom_left{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right_bottom div.jslm_right_bottom_left span.jslm_logos span.jslm_logo_wrp{-o-text-overflow: ellipsis;text-overflow: ellipsis;white-space: nowrap;overflow: hidden;max-width: 190px;}
+div.jslm_content_data div.jslm_data_container div.jslm_data_wrapper div.jslm_right_bottom div.jslm_right_bottom_right div.jslm_right_bottom_price h3.jslm_heading_style{margin-left: 5px;}
+/* Add course */
+div.jslm_content_data div.jslm_data_container div.jslm_addcourse_wrapper div.jslm_form_wrapper div.jslm_row div.jslm_input_field div.jslm_price_field{width: 100%;}
+/* Course detail */
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_top_wrapper{padding-left: 0;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_top_wrapper div.jslm_left_wrap{width: 100%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_top_wrapper div.jslm_right_wrap{width: 100%;text-align: left;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_top_wrapper div.jslm_right_wrap div.jslm_enroll_btn_wrap{width: unset;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_top_wrapper div.jslm_right_wrap div.jslm_enroll_btn_wrap div.jslm_top_enrolled {float: left;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_middle_potion{padding: 0;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper ul li.jslm_li_border{width: 100%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper ul li.jslm_li_border a.jslm_li_anchor_styling{border:unset;text-align: left;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper ul li.jslm_li_border a.jslm_li_anchor_styling.jslm_left_border{border:unset;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_members_wrapper div.jslm_member_data{width: 100%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_members_wrapper div.jslm_member_data div.jslm_left_side{margin-right: 10px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_members_wrapper div.jslm_member_data div.jslm_right_side{width: calc(100% - 30% - 10px);padding: 5px 0 5px 5px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_reviews_wrapper div.jslm_reviews_top_wrapper{padding: 12px 25px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_reviews_wrapper div.jslm_reviews_top_wrapper div.jslm_reviews_left{width: 100%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_reviews_wrapper div.jslm_reviews_top_wrapper div.jslm_reviews_right{width: 100%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_reviews_wrapper div.jslm_reviews_top_wrapper div.jslm_reviews_right div.jslm_reviews_right_data span.jslm_progress_bar{width: 70%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_reviews_wrapper div.jslm_reviews_top_wrapper div.jslm_reviews_right div.jslm_reviews_right_data{padding: 5px 2px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_reviews_wrapper div.jslm_reviews_top_wrapper div.jslm_reviews_right div.jslm_reviews_right_data span.jslm_progress_bar{margin-top: 1px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_curriculum_wrapper div.jslm_panel_group div.jslm_panel_single_group div.jslm_container_style div.jslm_edit_row_style a.jslm_edit_lec_anchor{width: 75%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_curriculum_wrapper div.jslm_panel_group div.jslm_panel_single_group div.jslm_container_style div.jslm_edit_row_style span.jslm_edit_section_action{width: 25%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_middle_potion div.jslm_middle_top{padding: 0px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_middle_potion div.jslm_middle_top div.jslm_logo_wrp{width: 100%;padding: 12px 5px;margin:0px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_middle_potion div.jslm_middle_top div.jslm_logo_wrp div.jslm_detail_img_wrap{width: 34px;height: 34px;margin-top: 0px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_middle_potion div.jslm_middle_top div.jslm_logo_wrp div.jslm_detail_title{margin-top: 0px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_middle_potion div.jslm_append_border{display: none;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_middle_potion div.jslm_middle_top div.jslm_logo_wrp:last-child{border-bottom: none;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_home_data_wrapper div.jslm_home_data_row div.jslm_custom_fields_wrapper div.jslm_custom_field{border-bottom: unset;padding: 0px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_home_data_wrapper div.jslm_home_data_row div.jslm_custom_fields_wrapper div.jslm_custom_field div.jslm_heading_right{width: 100%;padding: 10px 0px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_reviews_wrapper div.jslm_comments_wrapper div.jslm_right_side{padding: 15px 5px;}
+/* Course edit */
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_curriculum_wrapper div.jslm_curriculum_title div.jslm_row_heading.jslm_course_edit_curriculum{width: 45% !important;padding-top: 5px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_curriculum_wrapper div.jslm_curriculum_title div.jslm_add_new_btn{width: 55%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_curriculum_wrapper div.jslm_panel_group div.jslm_panel_single_group div.jslm-panel-heading div.jslm_edit_section_left.jslm_edit_heading_width{width: 100%;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_curriculum_wrapper div.jslm_panel_group div.jslm_panel_single_group div.jslm-panel-heading div.jslm_edit_section_right{width: 100%;margin-bottom: 10px;padding-left: 15px;padding-right: 0px;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_curriculum_wrapper div.jslm_panel_group div.jslm_panel_single_group div.jslm-panel-heading div.jslm_edit_section_right span.jslm_section_action{text-align: left;}
+div.jslm_content_data div.jslm_detail_wrapper div.jslm_tabs_wrapper div.jslm_my_content div.jslm_curriculum_wrapper div.jslm_panel_group div.jslm_panel_single_group div.jslm-panel-heading div.jslm_edit_section_left h6.jslm_section_heading a{padding: 10px;}
+/* Message */
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_left{width: 100%;text-align: center;padding: 10px 10px 0 10px;}
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_left div.jslm_img_wrapper{width: 80px;height: 80px;background-color: transparent;float: unset;margin:auto;}
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_left div.jslm_img_wrapper img{padding: 2px;border-radius: 50%;}
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_left span.jslm_text{width: 100%;padding-left: 0;padding-top: 7px;}
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_right{width: 100%;text-align: center;padding: 0px 0px 10px 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_right span.jslm_date{width: 100%;padding: 10px 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_right span.jslm_msg_box{float: unset;vertical-align: middle;}
+div.jslm_content_data div.jslm_data_container div.jslm_message_wrapper div.jslm_top div.jslm_top_right span.jslm_box_alert{float: none;vertical-align: middle;}
+div.jslm_content_data div.jslm_data_container div.jslm_history_container div.jslm_history_wrapper div.jslm_row div.jslm_right_side{padding-top: 1px;width: calc(100% - 100px);margin-left: 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_history_container div.jslm_history_wrapper div.jslm_row div.jslm_right_side div.jslm_top_row span.jslm_date{margin-left: 0px;padding-top: 9px;}
+div.jslm_content_data div.jslm_data_container div.jslm_history_container div.jslm_history_wrapper div.jslm_row div.jslm_right_side div.jslm_bottom_row{padding-top: 5px;}
+div.jslm_content_data div.jslm_data_container div.jslm_history_container div.jslm_history_wrapper div.jslm_row div.jslm_right_side div.jslm_bottom_row span.jslm_text{width: 100%;}
+/* Dashbpard Instructor*/
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper{background-color: transparent;border: unset;padding: 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_left_wrp{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp{width: 100%;margin-left: 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle ul.nav-tabs li.jslm_li_styling{width: 50%;float: left;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle ul.nav-tabs a.jslm_view_all {float: left;margin: 10px 0 10px 33%;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_dashboard_earning_graph_warpper div.jslm_earning_bottom div.jslm_earning_bottom_content_data{width: 100%;margin-bottom: 10px;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row div.jslm_date_name_wrp{width: 100%;padding: 6px 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row div.jslm_date_name_wrp span.jslm_student_name{display: inline;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row div.jslm_course_approve_wrp{width: 100%;padding: 6px 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row div.jslm_course_approve_wrp span.jslm_status{float: left;margin-top: 5px;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row div.jslm_course_approve_wrp span.jslm_course_name{margin-right: 10px;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list div.jslm_row div.jslm_price{width: 100%;text-align: left;padding: 6px 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_payout_container div.jslm_payout_data_list{padding: 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_dashboard_wrapper div.jslm_dashboard_right_wrp div.jslm_myprofile div.jslm_profileleft_middle div.jslm_dashboard_course_list table.jslm-table tbody.jslm-table-body td.jslm-table-data{padding: 10px 15px;}
+/* responsive table */
+table.jslm-table {border-spacing: 0 6px;}
+table.jslm-table caption {background-image: none;}
+table.jslm-table thead {display: none;}
+table.jslm-table thead tr th {display: none;}
+/*table.jslm-table tbody tr td:first-child {border-bottom: 1px solid #d4d4d5;border-top: 1px solid #d4d4d5;}*/
+table.jslm-table tbody tr td {display: block;width: 100%;text-align: left;padding: 6px 5px;border: none;}
+table.jslm-table tbody tr td:before {content: attr(data-th) ":";font-weight: bold;display: inline-block;margin-right: 20px;width: auto;border: none;}
+table.jslm-table tbody tr td:first-child:before {content: attr(data-th);}
+/*table.jslm-table tbody tr td:last-child {border-bottom: 1px solid #d4d4d5;border-top: 1px solid #d4d4d5;}*/
+table.jslm-table tbody tr td.action:last-child:before {content: unset;}
+table.jslm-table tbody tr td.action:last-child {text-align: center;}
+table.jslm-table tbody tr td.action:last-child a img {top: 0px;left: 0px;}
+table.jslm-table tbody tr td:last-child a img {left: -38px;top: 2px;}
+table.jslm-table thead th.center,
+table.jslm-table tbody tr td.center {text-align: left;}
+table.jslm-table tbody tr td.center a {text-decoration: none;font-size: 12px;}
+/* Lecture View */
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_left_section_list div.jslm_accordian_wrp{display: none;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_close_btn{display: none;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_bottom_actions_button div.jslm_right_button{margin-bottom: 10px;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper div.tab-content div.jslm_lecture_content_wrapper{padding: 5px 5px 20px;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper ul.jslm_modal_ul{border-bottom: 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper ul.jslm_modal_ul li.jslm_modal_li{width: 50%;border-right: 0px;border-top: 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper ul.jslm_modal_ul li.jslm_modal_li:first-child{border-left:none;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper div.tab-content div.jslm_lecture_content_wrapper div.jslm_files_content_data span.jslm_left_data{width: 70%;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper div.tab-content div.jslm_lecture_content_wrapper div.jslm_files_content_data span.jslm_right_anchor{width: 30%;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper div.tab-content div.jslm_lecture_content_wrapper div.jslm-iframe{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper div.tab-content div.jslm_lecture_content_wrapper div.jslm-iframe iframe.jslm-iframe-element{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper div.tab-content div.jslm_lecture_content_wrapper div.jslm-iframe a i{left: 147px;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_bottom_actions_button div.jslm_left_button a.jslm_back, 
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_bottom_actions_button div.jslm_right_button a.jslm_next{padding: 5px;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper div.tab-content div.jslm_lecture_content_wrapper div.jslm_quiz_container div.jslm_question_bottom_content div.jslm_button a.jslm_previous_button_anchor{min-width: 100px;padding: 10px;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper div.tab-content div.jslm_lecture_content_wrapper div.jslm_quiz_container div.jslm_question_bottom_content div.jslm_button a.jslm_next_button_anchor{min-width: 100px;padding: 10px;}
+div.jslm_content_data div.jslm_data_container div.jslm_lecture_curriculum_wrp div.jslm_curriculum_right_wrp div.jslm_right_content_wrapper div.tab-content div.jslm_lecture_content_wrapper div.jslm_quiz_container div.jslm_question_bottom_content div.jslm_button button.jslm_next_button_anchor{min-width: 100px;padding: 15px;}
+/* My Profile */
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper{padding:0px;}
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper div.jslm_left_data, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper div.jslm_left_data{width: 100%;text-align: center;padding: 0;}
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper div.jslm_left_data div.jslm_send_message_wrapper, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper div.jslm_left_data div.jslm_send_message_wrapper {float: none;display: inline-block;width: auto;}
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper div.jslm_left_data div.jslm_social_icons, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper div.jslm_left_data div.jslm_social_icons{margin-bottom: 12px;}
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper div.jslm_right_data, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper div.jslm_right_data{width: 100%;margin-left: 0px;}
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper div.jslm_right_data div.jslm_top_heading div.jslm_heading .jslm_heading_title, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper div.jslm_right_data div.jslm_top_heading div.jslm_heading .jslm_heading_title{width: 100%;}
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper div.jslm_right_data div.jslm_top_heading div.jslm_heading span.jslm_label, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper div.jslm_right_data div.jslm_top_heading div.jslm_heading span.jslm_label{float: unset;width: unset;margin-left: 0px;padding: 5px;margin-top: 10px;}
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper div.jslm_right_data div.jslm_top_heading div.jslm_info, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper div.jslm_right_data div.jslm_top_heading div.jslm_info{text-align: center;}
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper div.jslm_right_data div.jslm_top_heading div.jslm_info .jslm_icons, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper div.jslm_right_data div.jslm_top_heading div.jslm_info .jslm_icons{width: 100%;margin-bottom: 10px;}
+div.jslm_content_wrapper div.jslm_content_data div.jslm_instructor_wrapper div.jslm_right_data div.jslm_bottom_content span.jslm_logo, 
+div.jslm_content_wrapper div.jslm_content_data div.jslm_student_wrapper div.jslm_right_data div.jslm_bottom_content span.jslm_logo{width: 100%;}
+/* Register */
+div.jslm_content_data div.jslm_register_wrapper div.jslm_register_student, div.jslm_content_data div.jslm_register_wrapper div.jslm_register_instructor{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_register_wrapper div.jslm_left_data{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_register_wrapper div.jslm_right_data{width: 100%;margin-left: 0px;margin-top: 10px;}
+div.jslm_content_data div.jslm_nav_tab_wrapper ul.nav-tabs.jslm_ul_styling li.jslm_li_styling_reg{width: 100%;}
+div.jslm_content_data div.jslm_nav_tab_wrapper ul.nav-tabs.jslm_ul_styling li.jslm_li_styling_reg:last-child{border-bottom: none;}
+/* Login */
+div.jslm_content_data div.jslm_data_container div.jslm_login_wrapper div.jslm_login_left{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_login_wrapper div.jslm_login_right{width: 100%;margin: 10px 0 0 0;padding: 12px 0 0 0;border-left: none;}
+div.jslm_content_data div.jslm_data_container div.jslm_login_wrapper div.jslm_login_right div.jslm_social_login_bottom div.jslm_social_login_icons a div.jslm_login_text {padding: 5px;}
+/* Add lecture */
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_img_list div.jslm_row{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper div.jslm_quiz_content div.jslm_quiz_body div.jslm_row_data{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper{padding: 5px;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper div.jslm_quiz_heading{width: 85%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper span.jslm_delete{width: calc(100% - 85%);}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper span.jslm_delete a.jslm_delete_button{padding: 2px 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper div.jslm_quiz_body div.jslm_row_data{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper div.jslm_quiz_body div.jslm_row_data div.jslm_choice div.jslm_quiz_input_wrapper{width: 87%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper div.jslm_quiz_body div.jslm_row_data div.jslm_choice span.jslm_delete{width: 13%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_img_list div.jslm_quiz_wrapper div.jslm_heading{padding: 5px;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_img_list div.jslm_quiz_wrapper div.jslm_heading div.jslm_left_heading{width: 75%;margin-top: 0px;padding: 10px 0 0 5px;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_img_list div.jslm_quiz_wrapper div.jslm_heading span.jslm_right_option{width: calc(100% - 75% - 5px);margin-top: 0px;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_append_files div.jslm_upload_files_wrapper{width: 100%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_append_files div.jslm_upload_video_files_wrapper input.jslm_input_video_title{width: 42%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_append_files div.jslm_upload_video_files_wrapper button.jslm_delete_button{width: 7%;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_append_files div.jslm_upload_files_wrapper button.jslm_delete_button{padding: 10px;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper div.jslm_quiz_content div.jslm_quiz_body div.jslm_row_data div.jslm_choice div.jslm_quiz_input_wrapper div.jslm_checkbox_wrp{min-height: 52px;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper div.jslm_quiz_content div.jslm_quiz_body div.jslm_row_data div.jslm_choice div.jslm_quiz_input_wrapper div.jslm_checkbox_wrp div.exp div.checkbox label span::before{top: 12px;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper div.jslm_quiz_content div.jslm_quiz_body div.jslm_row_data div.jslm_choice div.jslm_quiz_input_wrapper div.jslm_checkbox_wrp div.exp div.checkbox label span::after{top: 16px;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper span.jslm_delete a.jslm_delete_button{padding:9px 15px;}
+div.jslm_content_data div.jslm_data_container div.jslm_addlecture_wrapper div.jslm_form_wrapper div.jslm_file_wrapper div.jslm_quiz_wrapper div.jslm_quiz_body div.jslm_row_data div.jslm_choice div.jslm_quiz_input_wrapper div.jslm_checkbox_wrp{min-height: 53.5px;}
+/* Earning */
+div.jslm_content_data div.jslm_data_container div.jslm_earn_bottom_revenue div.jslm_revenue_wrapper,
+div.jslm_content_data div.jslm_data_container div.jslm_earn_bottom_revenue div.jslm_payout_wrapper{width: 100%;margin-bottom: 10px;}
